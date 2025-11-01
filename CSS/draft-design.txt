@@ -1,0 +1,45 @@
+/* ---------------------------------------------------
+   Google Fonts Import
+--------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+/* ---------------------------------------------------
+   Base Typography
+--------------------------------------------------- */
+body {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+}
+
+/* Decorative / accent font (optional) */
+.josefin {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+}
+
+/* Elegant light title font */
+.cagliostro {
+  font-family: "Cagliostro", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+/* Example class for custom Merriweather usage */
+.merriweather-title {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}

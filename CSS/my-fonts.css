@@ -1,0 +1,67 @@
+/* =======================================================
+   Gill Sans MT Font Setup
+   Local font loading for Quarto CV
+======================================================= */
+
+/* Fonts are in the same folder as this CSS file (CSS/) */
+@font-face {
+  font-family: 'Gill Sans MT';
+  src: url('fonts/fontgillsansmt.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gill Sans MT';
+  src: url('fonts/gill-sans-mt-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gill Sans MT';
+  src: url('fonts/gill-sans-mt-italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* =======================================================
+   Font Application
+======================================================= */
+
+body {
+  font-family: 'Gill Sans MT', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #222;
+  background-color: #FAF3F2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gill Sans MT', sans-serif;
+  font-weight: 700;
+  color: #222;
+}
+
+a {
+  font-family: 'Gill Sans MT', sans-serif;
+  text-decoration: none;
+  color: #007acc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p, li {
+  font-family: 'Gill Sans MT', sans-serif;
+  font-weight: 400;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+em, i {
+  font-style: italic;
+}

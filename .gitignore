@@ -1,0 +1,22 @@
+# Quarto build output
+_site/
+.quarto/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.Rproj.user/
+.vscode/
+
+# Temporary and backup files
+*.bak
+*.tmp
+
+/.quarto/
+**/*.quarto_ipynb

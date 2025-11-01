@@ -1,0 +1,25 @@
+---
+title: ""
+format:
+  html:
+    theme: flatly
+    toc: false
+    number-sections: false
+    css: /CSS/my-fonts.css
+    header-includes: |
+      <!-- Bootstrap Icons -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+
+
+
+fontsize: 12pt
+geometry: margin=1in
+
+
+---
+
+<div style="text-align: center; margin-top: 80px;">
+  <img src="/images/icon_main.png" alt="Under Construction" style="width: 250px; height: auto; margin-bottom: 20px;">
+  <h3>This page is currently under construction 🚧</h3>
+  <p>Check back soon for articles and updates.</p>
+</div>

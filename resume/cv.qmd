@@ -1,0 +1,134 @@
+---
+title: "Rofikul Masud - CV"
+subtitle: "Ulitsa Lyapunova, 4, Novosibirsk, Novosibirskaya oblast', 630090, Russian Federation"
+date: "Last Updated: 10 October 2025"
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-location: right     # show TOC on right side
+    toc-title: "Highlights" # title for the sidebar
+    number-sections: false
+    css: /CSS/my-fonts.css
+    smooth-scroll: true     # enable smooth scrolling
+
+    header-includes: |
+      <!-- Bootstrap Icons -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+
+
+
+fontsize: 12pt
+geometry: margin=1in
+
+---
+
+<p>
+  <i class="bi bi-envelope-fill"></i> <a href="mailto:r.masud@g.nsu.ru">r.masud@g.nsu.ru</a><br>
+  <i class="bi bi-telegram"></i><a href="https://t.me/ovid_d" target="_blank"> Telegram</a> <br>
+  <i class="bi bi-linkedin"></i><a href="https://www.linkedin.com/in/rofikul-masud-a984a3267/" target="_blank"> linkedin</a><br>
+  <i class="bi bi-github"></i> <a href="https://github.com/benmasud" target="_blank">github</a><br>
+  <i class="bi bi-person-badge-fill"></i> <a href="https://orcid.org/0009-0009-1917-8320" target="_blank">orcid</a><br>
+  <i class="bi bi-file-earmark-pdf-fill"></i> <a href="files/cv-rofikul-masud.pdf" target="_blank">CV</a>
+</p>
+
+
+
+# Education
+
+**B.Sc. in Computer Science and Computer Engineering**  
+Novosibirsk National Research State University, Faculty of Information Technologies, Sept 2021 – Aug 2025  
+
+
+**Thesis:** *Using machine learning tools to solve direct and inverse problems in determining the environment near the wellbore based on signals from the VIKPB device*  
+*Expected presentation at 2025 IEEE XVII APEIE Conference, Nov 2025*
+
+
+
+# Research Experience
+
+**Artificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems, Russian Academy of Sciences** – *Research Intern*  
+*June 2025 – January 2026, Novosibirsk, Russia*  
+- Developed and evaluated ML models.  
+- Conducted literature reviews and supported experimental design.  
+- Preprocessed data and maintained research code.  
+- Contributed to documentation, posters, and conference presentations.  
+
+<i class="bi bi-file-earmark-pdf-fill"></i> [Recommendation Letter](/files/recommendation_zagorulko.pdf){target="_blank"}  
+**Prof. Yuri Alekseevich Zagorulko, Ph.D.** 
+*Associate Professor, Novosibirsk State University*  
+*Head of the Artificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems SB RAS*
+
+
+**Laboratory of Modern Computer Technologies, Novosibirsk State University** – *Research Intern*  
+*Sept 2024 – May 2025, Novosibirsk, Russia*  
+- Improved ML models for high-frequency electromagnetic data analysis.  
+- Experimented with neural networks and classical ML methods.  
+- Developed computational modeling software for data interpretation.  
+
+<i class="bi bi-file-earmark-pdf-fill"></i> [Recommendation Letter](/files/recommendation_vlasov.pdf){target="_blank"}  
+**Prof. Alexander Alexandrovich Vlasov, Ph.D.** 
+*Scientific Advisor & Associate Professor, Novosibirsk State University*  
+*Senior Researcher, Laboratory of Machine Graphics Software Systems, Institute of Automation and Electrometry SB RAS* 
+
+
+# Professional Experience
+
+**Sberbank-Technology, Model Risk Management Department** – *Data Science Intern (R&D)*  
+*May 2024 – July 2024, Novosibirsk, Russia*  
+- Researched and validated ML models for risk prediction.  
+- Automated processes with Python, ensured data quality, and improved model performance.  
+
+**Machine Learning Engineer — OOO AITISIB**  
+*Jul 2024 – Jun 2025 | Novosibirsk, Russia*  
+- Designed, trained, and deployed **machine learning models** for predictive financial analytics.  
+- Integrated **AI-driven automation** into financial platforms to enhance decision-making and operational efficiency.  
+- Implemented **CI/CD pipelines** to automate model deployment and streamline development cycles.  
+- Collaborated with cross-functional teams to optimize infrastructure for **AI-driven financial applications**, improving performance and reliability.  
+- Focused on model scalability, security, and interpretability to support enterprise-grade systems.  
+
+
+# Skills
+
+**Programming:** Python, Java, C/C++, SQL, Go, JavaScript, Haskell  
+**Software Engineering:** OOP, functional programming, data structures, algorithms, OS, design patterns, REST APIs, microservices  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, NLP (HuggingFace, BERT, GPT), Computer Vision (OpenCV, YOLO), Deep Learning  
+**Data Science & Analysis:** Pandas, NumPy, R, SQL, statistics, EDA, A/B testing  
+**Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+**Databases & Backend:** MySQL, PostgreSQL, SQLite, schema design, query optimization  
+**Cloud & DevOps:** Docker, Flask, FastAPI, AWS, GCP, CI/CD  
+**Languages:** English (C1), Bengali (Native), Russian (B2), German (A1)  
+
+
+
+# Projects
+
+**BIS – High-Frequency Electromagnetic Sounding Data Interpretation Program** *(2024–2025)*  
+- Registered in Russia (Certificate No. RU2024687640)  
+- C++ & Python development for processing wellbore signals  
+<i class="bi bi-file-earmark-pdf-fill"></i> [Software Registration Certificate](/files/software_certificate_RU2024687640.pdf){target="_blank"}
+
+
+
+**Bibliophilia – Web Application** *(2024)*  
+- Django & JavaScript app for an open-source digital library  
+- Automated book format conversions, access control, recommendations  
+
+**Lisp-Machine – Java Framework** *(2024)*  
+- Parses Lisp code and generates runnable Java classes  
+
+**MADR – Gamified Language Learning Application** *(2023–2024)*  
+- Developed in Go & JS, inspired by Duolingo, with personalized learning features  
+
+
+
+# Achievements & Conferences
+
+- **63rd ISSC-2025**, Neural Networks & Machine Learning – Participant, April 2025  
+- **13th Conference on Artificial Intelligence and Natural Language**, Attendee, April 2025  
+- **AI in Business – Cookie Fest 2024**, 2nd Place Team, Dec 2024  
+- **IV Novosibirsk Scientific Readings**, Attendee, Sept 2024  
+- **Classical Machine Learning Hackathon**, 2nd Place Team, Feb 2024  
+- **Archery Federation Competition**, 3rd Place (Recurve), Dec 2023  
+- **Students Conference – Mathematics on the Cutting Edge of Science**, 2nd Place, Apr 2022  
