@@ -10,8 +10,6 @@ website:
     right:
       - text: Articles
         href: articles/articles.qmd
-      - text: CV
-        href: resume/cv.qmd
       - text: Publications
         href: publications/publication.qmd
       - text: Blog

@@ -38,8 +38,10 @@ geometry: margin=1in
 
 ### Rofikul Masud
 
+[<i class="bi bi-envelope-fill"></i> Email](mailto:r.masud@g.nsu.ru){.btn .btn-outline-danger .w-75 .mb-2 target="_blank"}  
+[<i class="bi bi-telegram"></i> Telegram](https://t.me/ovid_d){.btn .btn-outline-info .w-75 .mb-2 target="_blank"}
 [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/rofikul-masud-a984a3267/){.btn .btn-outline-primary .w-75 .mb-2 target="_blank"}  
-[<i class="bi bi-github"></i> GitHub](https://github.com/benmasud){.btn .btn-outline-dark .w-75 .mb-2 target="_blank"}  
+[<i class="bi bi-github"></i> GitHub](https://github.com/benmasud){.btn .btn-outline-dark .w-75 .mb-2 target="_blank"} 
 [<i class="bi bi-person-badge-fill"></i> ORCID](https://orcid.org/0009-0009-1917-8320){.btn .btn-outline-success .w-75 target="_blank"}
 :::
 
