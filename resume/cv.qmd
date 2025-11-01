@@ -54,10 +54,6 @@ Novosibirsk National Research State University, Faculty of Information Technolog
 - Preprocessed data and maintained research code.  
 - Contributed to documentation, posters, and conference presentations.  
 
-<i class="bi bi-file-earmark-pdf-fill"></i> [Recommendation Letter](/files/recommendation_zagorulko.pdf){target="_blank"}  
-**Prof. Yuri Alekseevich Zagorulko, Ph.D.** 
-*Associate Professor, Novosibirsk State University*  
-*Head of the Artificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems SB RAS*
 
 
 **Laboratory of Modern Computer Technologies, Novosibirsk State University** – *Research Intern*  
@@ -66,10 +62,6 @@ Novosibirsk National Research State University, Faculty of Information Technolog
 - Experimented with neural networks and classical ML methods.  
 - Developed computational modeling software for data interpretation.  
 
-<i class="bi bi-file-earmark-pdf-fill"></i> [Recommendation Letter](/files/recommendation_vlasov.pdf){target="_blank"}  
-**Prof. Alexander Alexandrovich Vlasov, Ph.D.** 
-*Scientific Advisor & Associate Professor, Novosibirsk State University*  
-*Senior Researcher, Laboratory of Machine Graphics Software Systems, Institute of Automation and Electrometry SB RAS* 
 
 
 # Professional Experience
