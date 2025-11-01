@@ -30,7 +30,6 @@ geometry: margin=1in
   <i class="bi bi-linkedin"></i><a href="https://www.linkedin.com/in/rofikul-masud-a984a3267/" target="_blank"> linkedin</a><br>
   <i class="bi bi-github"></i> <a href="https://github.com/benmasud" target="_blank">github</a><br>
   <i class="bi bi-person-badge-fill"></i> <a href="https://orcid.org/0009-0009-1917-8320" target="_blank">orcid</a><br>
-  <i class="bi bi-file-earmark-pdf-fill"></i> <a href="files/cv-rofikul-masud.pdf" target="_blank">CV</a>
 </p>
 
 

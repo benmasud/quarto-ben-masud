@@ -34,7 +34,7 @@ geometry: margin=1in
 ::: {.two-col}
 
 ::: {.column width="35%" .text-center}
-![](/images/profile-photo-2.jpg){.img-fluid style="width:260px; height:250px; object-fit:cover; border-radius:8px;"}
+![](images/profile-photo-2.JPG){.img-fluid style="width:260px; height:250px; object-fit:cover; border-radius:8px;"}
 
 ### Rofikul Masud
 
