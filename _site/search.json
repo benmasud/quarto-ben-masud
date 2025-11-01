@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "resume/cv.html",
+    "href": "resume/cv.html",
+    "title": "Rofikul Masud - CV",
+    "section": "",
+    "text": "r.masud@g.nsu.ru  Telegram   linkedin  github  orcid  CV\n\n\nEducation\nB.Sc. in Computer Science and Computer Engineering\nNovosibirsk National Research State University, Faculty of Information Technologies, Sept 2021 – Aug 2025\nThesis: Using machine learning tools to solve direct and inverse problems in determining the environment near the wellbore based on signals from the VIKPB device\nExpected presentation at 2025 IEEE XVII APEIE Conference, Nov 2025\n\n\nResearch Experience\nArtificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems, Russian Academy of Sciences – Research Intern\nJune 2025 – January 2026, Novosibirsk, Russia\n- Developed and evaluated ML models.\n- Conducted literature reviews and supported experimental design.\n- Preprocessed data and maintained research code.\n- Contributed to documentation, posters, and conference presentations.\n Recommendation Letter\nProf. Yuri Alekseevich Zagorulko, Ph.D. Associate Professor, Novosibirsk State University\nHead of the Artificial Intelligence Laboratory, A.P. Ershov Institute of Informatics Systems SB RAS\nLaboratory of Modern Computer Technologies, Novosibirsk State University – Research Intern\nSept 2024 – May 2025, Novosibirsk, Russia\n- Improved ML models for high-frequency electromagnetic data analysis.\n- Experimented with neural networks and classical ML methods.\n- Developed computational modeling software for data interpretation.\n Recommendation Letter\nProf. Alexander Alexandrovich Vlasov, Ph.D. Scientific Advisor & Associate Professor, Novosibirsk State University\nSenior Researcher, Laboratory of Machine Graphics Software Systems, Institute of Automation and Electrometry SB RAS\n\n\nProfessional Experience\nSberbank-Technology, Model Risk Management Department – Data Science Intern (R&D)\nMay 2024 – July 2024, Novosibirsk, Russia\n- Researched and validated ML models for risk prediction.\n- Automated processes with Python, ensured data quality, and improved model performance.\nMachine Learning Engineer — OOO AITISIB\nJul 2024 – Jun 2025 | Novosibirsk, Russia\n- Designed, trained, and deployed machine learning models for predictive financial analytics.\n- Integrated AI-driven automation into financial platforms to enhance decision-making and operational efficiency.\n- Implemented CI/CD pipelines to automate model deployment and streamline development cycles.\n- Collaborated with cross-functional teams to optimize infrastructure for AI-driven financial applications, improving performance and reliability.\n- Focused on model scalability, security, and interpretability to support enterprise-grade systems.\n\n\nSkills\nProgramming: Python, Java, C/C++, SQL, Go, JavaScript, Haskell\nSoftware Engineering: OOP, functional programming, data structures, algorithms, OS, design patterns, REST APIs, microservices\nMachine Learning & AI: Scikit-learn, TensorFlow, Keras, PyTorch, NLP (HuggingFace, BERT, GPT), Computer Vision (OpenCV, YOLO), Deep Learning\nData Science & Analysis: Pandas, NumPy, R, SQL, statistics, EDA, A/B testing\nVisualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI\nDatabases & Backend: MySQL, PostgreSQL, SQLite, schema design, query optimization\nCloud & DevOps: Docker, Flask, FastAPI, AWS, GCP, CI/CD\nLanguages: English (C1), Bengali (Native), Russian (B2), German (A1)\n\n\nProjects\nBIS – High-Frequency Electromagnetic Sounding Data Interpretation Program (2024–2025)\n- Registered in Russia (Certificate No. RU2024687640)\n- C++ & Python development for processing wellbore signals\n Software Registration Certificate\nBibliophilia – Web Application (2024)\n- Django & JavaScript app for an open-source digital library\n- Automated book format conversions, access control, recommendations\nLisp-Machine – Java Framework (2024)\n- Parses Lisp code and generates runnable Java classes\nMADR – Gamified Language Learning Application (2023–2024)\n- Developed in Go & JS, inspired by Duolingo, with personalized learning features\n\n\nAchievements & Conferences\n\n63rd ISSC-2025, Neural Networks & Machine Learning – Participant, April 2025\n\n13th Conference on Artificial Intelligence and Natural Language, Attendee, April 2025\n\nAI in Business – Cookie Fest 2024, 2nd Place Team, Dec 2024\n\nIV Novosibirsk Scientific Readings, Attendee, Sept 2024\n\nClassical Machine Learning Hackathon, 2nd Place Team, Feb 2024\n\nArchery Federation Competition, 3rd Place (Recurve), Dec 2023\n\nStudents Conference – Mathematics on the Cutting Edge of Science, 2nd Place, Apr 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rofikul Masud",
+    "section": "",
+    "text": "Rofikul Masud\n LinkedIn\n GitHub\n ORCID\n\n\n\nHi there! I’m a recent Computer Science graduate from Novosibirsk National Research State University (NSU) — right in the heart of the Russian academic hub in Western Siberia. I’m about to begin my Master’s degree, with plans to pursue a PhD in Machine Learning fields.\nMy Bachelor’s dissertation (NSU, 2025), titled “Using Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device”, explored the intersection of data science and applied geophysics — sparking my ongoing fascination with machine learning research.\nOutside academics, I’m both a tech enthusiast and a lover of the arts. I enjoy classical music (Western and South Asian), reading (literature, history, and philosophy), and watching films and documentaries. I also love visiting theatres and museums, and engaging in open discussions and debates — something I developed a passion for during my school debating days.\nI also enjoy writing — sharing thoughts on art, history, and personal experiences through blogs and short stories. Recently, I’ve been diving into language learning: I speak English and Russian fluently, and I’m currently learning German — not easy, but definitely rewarding!"
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Rofikul Masud",
+    "section": "",
+    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for blogs and updates."
+  },
+  {
+    "objectID": "articles/articles.html",
+    "href": "articles/articles.html",
+    "title": "Rofikul Masud",
+    "section": "",
+    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for articles and updates."
+  },
+  {
+    "objectID": "books/books.html",
+    "href": "books/books.html",
+    "title": "Rofikul Masud",
+    "section": "",
+    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for books and updates."
+  },
+  {
+    "objectID": "publications/publication.html",
+    "href": "publications/publication.html",
+    "title": "Rofikul Masud",
+    "section": "",
+    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for publications and updates."
+  }
+]

@@ -1,5 +1,4 @@
 # Quarto build output
-_site/
 .quarto/
 
 # OS files
