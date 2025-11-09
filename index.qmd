@@ -6,7 +6,9 @@ format:
     page-layout: full
     toc: false
     number-sections: false
-    css: index.css
+    css:
+      - CSS/my-fonts.css       # font CSS from root
+      - index.css 
     header-includes: |
       <!-- Bootstrap Icons -->
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
@@ -39,6 +41,7 @@ geometry: margin=1in
 ![](images/profile-photo-2.JPG){.img-fluid style="width:320px; height:410px; object-fit:cover; border-radius:8px;"}
 
 ### Rofikul Masud
+
 
 <!-- Social links grid -->
 <ul class="social-links-grid">
