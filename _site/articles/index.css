@@ -1,6 +1,4 @@
-@import url('..CSS/my-fonts.css');
-
-
+@import url('../CSS/my-fonts.css');
 
 #articles-container {
   margin-top: 40px;
@@ -37,7 +35,6 @@
   font-weight: bold; /* Make the title bold */
 }
 
-
 .article-card p {
   margin: 0 0 10px 0;
   font-size: 0.95rem;
@@ -68,4 +65,21 @@
 #load-more:hover {
   background-color: black;
   color: white;
+}
+
+/* Responsive styles */
+@media (max-width: 992px) {
+  #articles-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+  }
+}
+
+@media (max-width: 600px) {
+  #articles-container {
+    grid-template-columns: 1fr; /* 1 column for mobile */
+  }
+
+  .article-card img {
+    height: 150px; /* smaller image on mobile */
+  }
 }
