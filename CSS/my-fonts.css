@@ -65,3 +65,25 @@ strong, b {
 em, i {
   font-style: italic;
 }
+
+
+/* =======================================================
+   Mobile adjustments 
+======================================================= */
+@media (max-width: 600px) {
+  body {
+    font-weight: 400; /*  all body text stays normal */
+  }
+
+  p, li, a {
+    font-weight: 400; /* Override any inherited bolding on mobile */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700; /* Keep headings bold */
+  }
+
+  strong, b {
+    font-weight: 700;
+  }
+}
