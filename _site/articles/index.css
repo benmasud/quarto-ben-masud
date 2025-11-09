@@ -1,0 +1,71 @@
+@import url('..CSS/my-fonts.css');
+
+
+
+#articles-container {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 20px;
+}
+
+.article-card {
+  border: 1px solid black; /* poker card black border */
+  border-radius: 12px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* subtle shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.article-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.article-card h4 {
+  margin: 0 0 10px 0;
+  font-size: 1.1rem;
+  font-weight: bold; /* Make the title bold */
+}
+
+
+.article-card p {
+  margin: 0 0 10px 0;
+  font-size: 0.95rem;
+}
+
+.article-card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.article-card a:hover {
+  text-decoration: underline;
+}
+
+#load-more {
+  display: block;
+  margin: 30px auto 0 auto;
+  padding: 12px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: transparent;
+  color: black;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#load-more:hover {
+  background-color: black;
+  color: white;
+}

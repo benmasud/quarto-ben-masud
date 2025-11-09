@@ -3,6 +3,7 @@ title: ""
 format:
   html:
     theme: flatly
+    page-layout: full
     toc: false
     number-sections: false
     css: /CSS/my-fonts.css
@@ -21,5 +22,5 @@ geometry: margin=1in
 <div style="text-align: center; margin-top: 80px;">
   <img src="/images/icon_main.png" alt="Under Construction" style="width: 250px; height: auto; margin-bottom: 20px;">
   <h3>This page is currently under construction 🚧</h3>
-  <p>Check back soon for articles and updates.</p>
+  <p>Check back soon for updates.</p>
 </div>

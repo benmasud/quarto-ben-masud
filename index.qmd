@@ -3,6 +3,7 @@ title: ""
 format:
   html:
     theme: flatly
+    page-layout: full
     toc: false
     number-sections: false
     css: /CSS/my-fonts.css
@@ -26,6 +27,7 @@ format:
           width: 1.5px;
           background-color: #ccc;
         }
+
       </style>
 fontsize: 12pt
 geometry: margin=1in
@@ -34,7 +36,7 @@ geometry: margin=1in
 ::: {.two-col}
 
 ::: {.column width="35%" .text-center}
-![](images/profile-photo-2.JPG){.img-fluid style="width:260px; height:250px; object-fit:cover; border-radius:8px;"}
+![](images/profile-photo-2.JPG){.img-fluid style="width:320px; height:410px; object-fit:cover; border-radius:8px;"}
 
 ### Rofikul Masud
 
@@ -47,15 +49,13 @@ geometry: margin=1in
 
 ::: {.column width="65%"}
 
-Hi there! I’m a recent Computer Science graduate from **Novosibirsk National Research State University (NSU)** — right in the heart of the Russian academic hub in Western Siberia. I’m about to begin my **Master’s degree**, with plans to pursue a **PhD in Machine Learning fields**.
+Hi there! I’m Rofikul Masud, but you can call me Rafik, a recent Computer Science graduate from **Novosibirsk National Research State University (NSU)**. I’m on the cusp of beginning my **Master’s**, with the horizon of a **PhD in Machine Learning** always glimmering in the distance, because let’s face it, why solve one problem when you can spend a lifetime solving infinitely many?
 
-My Bachelor’s dissertation (NSU, 2025), titled *“Using Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device”*, explored the intersection of **data science** and **applied geophysics** — sparking my ongoing fascination with **machine learning research**.
+My Bachelor’s thesis (NSU, 2025), whimsically titled *“Using Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device”*, allowed me to explore the subtle poetry hidden in data. From signals deep underground to patterns in code, I realized that machine learning is not just about algorithms; it is about listening, interpreting, and predicting the whispers of the world around us.
 
-Outside academics, I’m both a **tech enthusiast** and a **lover of the arts**. I enjoy classical music (Western and South Asian), reading (literature, history, and philosophy), and watching films and documentaries. I also love visiting theatres and museums, and engaging in open discussions and debates — something I developed a passion for during my school debating days.
+Beyond the confines of academia, I oscillate between the worlds of technology and the arts. Classical music, both Western and South Asian, literature, philosophy, and the occasional documentary are my companions. Museums, theatres, and open debates feed my curiosity and remind me that understanding the human condition is as important as understanding data.
 
-I also enjoy **writing** — sharing thoughts on art, history, and personal experiences through blogs and short stories. Recently, I’ve been diving into **language learning**: I speak English and Russian fluently, and I’m currently learning German — not easy, but definitely rewarding!
-
-
+I am also an avid writer, exploring thoughts on history, art, and personal experience through blogs and short stories. Language fascinates me as much as logic does. I speak English and Russian fluently, am a native Bengali speaker, and am currently grappling with the subtle intricacies of German.
 
 :::
 

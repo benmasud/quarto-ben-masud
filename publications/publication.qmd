@@ -4,6 +4,7 @@ format:
   html:
     theme: flatly
     toc: false
+    page-layout: full
     number-sections: false
     css: /CSS/my-fonts.css
     header-includes: |

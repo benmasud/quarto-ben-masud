@@ -6,6 +6,7 @@ date: "Last Updated: 10 October 2025"
 format:
   html:
     theme: flatly
+    page-layout: full
     toc: true
     toc-location: right     # show TOC on right side
     toc-title: "Highlights" # title for the sidebar

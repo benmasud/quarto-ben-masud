@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog – Rofikul Masud</title>
+<title>Articles – Rofikul Masud</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,12 +71,13 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+<script src="../articles/index.js" defer=""></script>
 
 
-<link rel="stylesheet" href="../CSS/my-fonts.css">
+<link rel="stylesheet" href="index.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -96,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../articles/articles.html"> 
+    <a class="nav-link active" href="../articles/index.html" aria-current="page"> 
 <span class="menu-text">Articles</span></a>
   </li>  
   <li class="nav-item">
@@ -104,8 +105,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../notes/index.html"> 
+<span class="menu-text">Notes</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -115,62 +120,39 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Articles</h1>
+</div>
 
 
 
+<div class="quarto-title-meta column-page">
 
-<div class="d-flex flex-row flex-nowrap">
-<div class="card clickable-card" style="width:220px; margin:10px; display:flex; flex-direction:column;">
-<p><img src="..\blog/november-2025/images/book-cover.png" style="object-fit:cover; border-radius:8px 8px 0 0;;width:100.0%" height="180"></p>
-<div class="card-body" style="display:flex; flex-direction:column; justify-content:space-between; flex-grow:1;">
-<section id="elisabeth-rousset-or-boule-de-suif" class="level3">
-<h3 class="anchored" data-anchor-id="elisabeth-rousset-or-boule-de-suif">Elisabeth Rousset or Boule de Suif?</h3>
-<p>
-<small>Novosibirsk, Russia — 2nd November, 2025</small>
-</p>
-<p>A reflection on Maupassant, identity, and the social labeling of women through the lens of the story <em>Boule de Suif</em>.</p>
-</section>
-<div style="margin-top:10px;">
-<p><a href="../blog/november-2025/boule_de_suif.html" class="btn btn-primary">Read full post →</a></p>
-</div>
-</div>
-</div>
-<div class="card clickable-card" style="width:220px; margin:10px; display:flex; flex-direction:column;">
-<p><img src="..\blog/november-2025/images/in-progress-2.png" style="object-fit:cover; border-radius:8px 8px 0 0;;width:100.0%" height="180"></p>
-<div class="card-body" style="display:flex; flex-direction:column; justify-content:space-between; flex-grow:1;">
-<section id="in-progress" class="level3">
-<h3 class="anchored" data-anchor-id="in-progress">In Progress</h3>
-<p>
-<small>Coming Soon</small>
-</p>
-<p>This blog post is currently under development. Stay tuned for updates!</p>
-</section>
-<div style="margin-top:10px;">
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<!-- Articles container -->
+<div id="articles-container">
 
 </div>
-</div>
-</div>
-<div class="card clickable-card" style="width:220px; margin:10px; display:flex; flex-direction:column;">
-<p><img src="..\blog/november-2025/images/in-progress-3.png" style="object-fit:cover; border-radius:8px 8px 0 0;;width:100.0%" height="180"></p>
-<div class="card-body" style="display:flex; flex-direction:column; justify-content:space-between; flex-grow:1;">
-<section id="in-progress-1" class="level3">
-<h3 class="anchored" data-anchor-id="in-progress-1">In Progress</h3>
-<p>
-<small>Coming Soon</small>
-</p>
-<p>This blog post is currently under development. Stay tuned for updates!</p>
-</section>
-<div style="margin-top:10px;">
-
-</div>
-</div>
-</div>
+<!-- Load More button -->
+<div style="text-align: center; margin-top: 30px;">
+<p><button id="load-more">Load More</button></p>
 </div>
 
 

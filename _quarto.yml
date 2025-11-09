@@ -9,14 +9,18 @@ website:
   navbar:
     right:
       - text: Articles
-        href: articles/articles.qmd
+        href: articles/index.qmd
       - text: Publications
         href: publications/publication.qmd
       - text: Blog
-        href: blog/blog.qmd
+        href: blog/index.qmd
+      - text: Notes
+        href: notes/index.qmd
+
 
 format:
   html:
+    page-layout: full
     theme: flatly
     toc: false
 
@@ -27,6 +31,6 @@ resources:
   - resume/**
   - publications/**
   - blog/**
-  - about/**
+  - notes/**
   - books/**
   - articles/**

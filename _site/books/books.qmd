@@ -3,6 +3,7 @@ title: ""
 format:
   html:
     theme: flatly
+    page-layout: full
     toc: false
     number-sections: false
     css: /CSS/my-fonts.css
