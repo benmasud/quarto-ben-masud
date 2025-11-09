@@ -40,8 +40,8 @@
 .column .img-fluid {
   width: 100%;
   max-width: 320px;
-  height: auto; /* ✅ no fixed height */
-  aspect-ratio: 3 / 4; /* keeps good proportions */
+  height: auto;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 20px;
@@ -186,7 +186,7 @@
 }
 
 /* =======================================================
-   Book Cards
+   Book Cards - Desktop & Tablet (unchanged)
 ======================================================= */
 
 .book-cards {
@@ -194,14 +194,13 @@
   flex-wrap: wrap;
   gap: 1rem;
   margin-top: 1rem;
-  justify-content: center; /* ✅ center cards neatly */
+  justify-content: center;
   align-items: stretch;
 }
 
-/* Book card */
 .book-card {
-  flex: 1 1 220px; /* ✅ flexible base width */
-  max-width: 240px; /* ✅ prevents overexpansion */
+  flex: 1 1 220px;
+  max-width: 240px;
   background-color: rgba(255, 255, 255, 0.1);
   border: 1px solid black;
   border-radius: 12px;
@@ -219,7 +218,6 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Cover image */
 .book-card img {
   width: 100%;
   height: auto;
@@ -229,7 +227,6 @@
   margin-bottom: 10px;
 }
 
-/* Title & Author */
 .book-card h5 {
   margin: 0.4rem 0 0.1rem 0;
   font-size: 1rem;
@@ -242,7 +239,6 @@
   text-align: center;
 }
 
-/* Status */
 .book-card .status {
   margin-top: 0.5rem;
   padding: 4px 8px;
@@ -251,36 +247,78 @@
   font-size: 0.8rem;
 }
 
-.book-card.ongoing .status {
-  background-color: #17a2b8;
-}
+.book-card.ongoing .status { background-color: #17a2b8; }
+.book-card.planned .status { background-color: #ffc107; color: black; }
+.book-card.finished .status { background-color: #28a745; }
 
-.book-card.planned .status {
-  background-color: #ffc107;
-  color: black;
-}
-
-.book-card.finished .status {
-  background-color: #28a745;
-}
-
-/* ✅ Mobile-friendly book grid */
-@media screen and (max-width: 768px) {
+/* =======================================================
+   Book Cards - Mobile Phones Only
+======================================================= */
+@media screen and (max-width: 600px) {
   .book-cards {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 20px 10px;
   }
 
   .book-card {
-    flex: 1 1 calc(50% - 1rem); /* 2 per row on tablets */
-    max-width: 240px;
+    width: 100%;
+    max-width: 350px;
+    border-radius: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    background-color: #fff;
+    flex-direction: column;
+    overflow: visible;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
-}
 
-@media screen and (max-width: 500px) {
-  .book-card {
-    flex: 1 1 100%; /* full width on phones */
-    max-width: 100%;
+  .book-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+  }
+
+  .book-card .card-body,
+  .book-card > *:not(img) {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .book-card h5 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0 0 4px 0;
+    color: #111;
+    text-align: left;
+  }
+
+  .book-card p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    text-align: left;
+  }
+
+  .book-card .status {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border-radius: 3px;
+    align-self: flex-start;
+    color: #fff;
+  }
+
+  .book-card.ongoing .status { background-color: #17a2b8; }
+  .book-card.planned .status { background-color: #ffc107; color: #000; }
+  .book-card.finished .status { background-color: #28a745; }
+
+  .book-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
   }
 }
