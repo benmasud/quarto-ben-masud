@@ -186,21 +186,20 @@
 }
 
 /* =======================================================
-   Book Cards - Desktop & Tablet (unchanged)
+   Book Cards - Desktop & Tablet (3 cards per row)
 ======================================================= */
-
 .book-cards {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 1rem;
+  flex-wrap: nowrap; /* prevent wrapping */
   justify-content: center;
   align-items: stretch;
+  gap: 1.5rem;
+  margin-top: 1rem;
 }
 
 .book-card {
-  flex: 1 1 220px;
-  max-width: 240px;
+  flex: 0 0 calc((100% - 3rem) / 3); /* 3 cards per row, accounting for gaps */
+  max-width: calc((100% - 3rem) / 3);
   background-color: rgba(255, 255, 255, 0.1);
   border: 1px solid black;
   border-radius: 12px;
@@ -250,6 +249,34 @@
 .book-card.ongoing .status { background-color: #17a2b8; }
 .book-card.planned .status { background-color: #ffc107; color: black; }
 .book-card.finished .status { background-color: #28a745; }
+
+/* Let mobile version still stack vertically */
+@media screen and (max-width: 992px) {
+  .book-cards {
+    flex-wrap: wrap; /* allow wrapping for smaller screens */
+    justify-content: center;
+  }
+
+  .book-card {
+    flex: 1 1 45%;
+    max-width: 45%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .book-cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 20px 10px;
+  }
+
+  .book-card {
+    width: 100%;
+    max-width: 350px;
+  }
+}
+
 
 /* =======================================================
    Book Cards - Mobile Phones Only
