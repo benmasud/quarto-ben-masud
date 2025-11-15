@@ -1,76 +1,64 @@
 @import url('CSS/my-fonts.css');
 
 /* =======================================================
-   About Me Page Styles
+   General Page Styles
 ======================================================= */
+body {
+  font-family: 'YourFont', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
 
-/* Two-column layout with vertical separator */
-.two-col {
+/* =======================================================
+   Home Container Layout
+======================================================= */
+.home-container {
   display: flex;
-  align-items: flex-start;
-  gap: 1.5cm;
-  position: relative;
+  flex-direction: column; /* Mobile first */
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-.two-col::before {
-  content: "";
-  position: absolute;
-  left: 35%;
-  top: 0;
-  bottom: 0;
-  width: 1.5px;
-  background-color: #ccc;
+/* Desktop: two-column layout */
+@media (min-width: 900px) {
+  .home-container {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    gap: 2rem;
+    align-items: start;
+  }
 }
 
-/* Column widths */
-.two-col .column {
-  padding: 0 15px;
+/* =======================================================
+   Left Section: Photo + Name + Social
+======================================================= */
+.home-left {
+  text-align: center;
 }
 
-.two-col .column.width-35 {
-  width: 35%;
-}
-
-.two-col .column.width-65 {
-  width: 65%;
-}
-
-/* Profile image */
-.column .img-fluid {
-  width: 100%;
+.home-left img.img-fluid {
   max-width: 320px;
+  width: 100%;
   height: auto;
-  aspect-ratio: 3 / 4;
-  object-fit: cover;
   border-radius: 8px;
-  margin-bottom: 20px;
+  display: block;
+  margin: 0 auto 1rem auto;
+  object-fit: cover;
   transition: transform 0.3s ease;
 }
 
-.column .img-fluid:hover {
+.home-left img.img-fluid:hover {
   transform: scale(1.03);
 }
 
-/* Headers */
-.column h3, .column h2, .column h1 {
+.home-left h3 {
+  margin: 10px 0 15px 0;
   font-weight: 700;
-  margin-bottom: 15px;
 }
 
-/* Buttons */
-.btn {
-  display: block;
-  width: 75%;
-  margin-bottom: 10px;
-  padding: 10px 0;
-  text-align: center;
-  border-radius: 8px;
-  font-weight: 500;
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-
-/* Social links grid */
 .social-links-grid {
   display: grid;
   grid-template-columns: repeat(3, auto);
@@ -90,17 +78,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 4px 8px;
+  padding: 6px 12px;
   border: 1px solid black;
-  border-radius: 4px;
+  border-radius: 6px;
   text-decoration: none;
   color: black;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   transition: all 0.2s ease;
 }
 
 .social-links-grid a i {
-  margin-right: 4px;
+  margin-right: 6px;
 }
 
 .social-links-grid a:hover {
@@ -108,86 +96,49 @@
   border-color: black;
 }
 
-/* Responsive social grid */
-@media (max-width: 500px) {
-  .social-links-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 8px 10px;
-  }
-}
-
-/* Text */
-.column p, .column li {
-  line-height: 1.6;
+/* =======================================================
+   Right Section: About + Books
+======================================================= */
+.home-right h3, .home-right h2, .home-right h1 {
+  font-weight: 700;
   margin-bottom: 15px;
 }
 
-.column h4 {
-  margin-bottom: 10px;
+.home-right p {
+  margin-bottom: 15px;
+  line-height: 1.6;
 }
 
 /* =======================================================
-   Mobile Layout (only for phones)
+   Book Cards - Desktop
 ======================================================= */
-
-@media (max-width: 600px) {
-  .two-col {
-    flex-direction: column;
-    gap: 1rem;
-  }
-
-  .two-col::before {
-    display: none;
-  }
-
-  .column {
-    width: 100%;
-    padding: 0 10px;
-  }
-
-  .column .img-fluid {
-    width: 100%;
-    max-width: 100%;
-    aspect-ratio: 3 / 4;
-    margin-bottom: 15px;
-  }
-
-  .column p, .column li {
-    font-size: 0.95rem;
-  }
-
-  .btn {
-    width: 100%;
-    padding: 12px 0;
-  }
-}
-
-/* =======================================================
-   Book Cards - Desktop (3 per row)
-======================================================= */
-
+/* Desktop grid */
 .book-cards {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: stretch;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
-  margin-top: 1rem;
+  justify-items: center;
 }
+
+
+.book-cards > .book-card {
+  width: 100%;
+  max-width: 300px;
+}
+
 
 .book-card {
-  flex: 0 0 calc((100% - 3rem) / 3);
-  max-width: calc((100% - 3rem) / 3);
-  background-color: rgba(255, 255, 255, 0.1);
-  border: 1px solid black;
+  width: 100%;
+  max-width: 300px;
+  background-color: #fff;
+  border: 1px solid #ccc;
   border-radius: 12px;
-  padding: 0.75rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s, box-shadow 0.2s;
+  padding: 10px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .book-card:hover {
@@ -198,97 +149,119 @@
 .book-card img {
   width: 100%;
   height: auto;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 3/4;
   object-fit: cover;
   border-radius: 8px;
-  margin-bottom: 10px;
+  margin-bottom: 0.5rem;
 }
 
 .book-card h5 {
-  margin: 0.4rem 0 0.1rem 0;
   font-size: 1rem;
-  text-align: center;
+  font-weight: 600;
+  margin: 0.2rem 0 0.1rem 0; /* minimal spacing */
+  line-height: 1.2;
 }
 
 .book-card p {
-  margin: 0;
   font-size: 0.85rem;
-  text-align: center;
+  margin: 0 0 0.2rem 0; /* minimal spacing */
+  line-height: 1.2;
 }
 
 .book-card .status {
-  margin-top: 0.5rem;
-  padding: 4px 8px;
-  border-radius: 4px;
-  color: white;
+  margin-top: auto;  /* always push to bottom */
+  padding: 5px 10px;
+  border-radius: 6px;
   font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  align-self: center;
 }
 
 .book-card.ongoing .status { background-color: #17a2b8; }
 .book-card.planned .status { background-color: #ffc107; color: black; }
 .book-card.finished .status { background-color: #28a745; }
 
-/* =======================================================
-   Book Cards - Mobile (stacked, clean blog style)
-======================================================= */
 
-@media screen and (max-width: 600px) {
+
+
+
+/* =======================================================
+   Mobile Layout (iPhone / Android)
+======================================================= */
+@media (max-width: 899px) {
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 15px;
+  }
+
+  .home-left,
+  .home-right {
+    width: 100%;
+    text-align: center;
+  }
+
+  .home-left img.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+
+  .social-links-grid {
+    grid-template-columns: repeat(3, auto); /* three buttons in a row */
+    justify-content: center;                 /* center them horizontally */
+    gap: 8px;                                /* spacing between buttons */
+    margin: 0 auto 1rem auto;
+  }
+
+  .social-links-grid a {
+    flex: 1 1 auto;          /* allow buttons to size naturally */
+    min-width: 80px;         /* optional: minimum width for readability */
+    padding: 8px 10px;
+    font-size: 0.95rem;
+  }
+
   .book-cards {
+    display: flex;        /* override grid */
     flex-direction: column;
     align-items: center;
-    gap: 32px;
-    padding: 20px 10px;
+    gap: 30px;
+    padding: 10px 0;
   }
 
   .book-card {
     width: 100%;
     max-width: 360px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-    background-color: #fff;
-    flex-direction: column;
-    overflow: hidden;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
   .book-card img {
-    width: 100%;
     height: 220px;
-    object-fit: cover;
+  }
+  .book-card h5,
+  .book-card p,
+  .book-card .status {
+    text-align: center !important;
   }
 
   .book-card h5 {
     font-size: 1.1rem;
-    font-weight: 600;
     margin: 16px 20px 4px 20px;
-    color: #111;
-    text-align: left;
   }
 
   .book-card p {
     font-size: 0.95rem;
-    line-height: 1.5;
     color: #333;
     margin: 0 20px 10px 20px;
-    text-align: left;
   }
 
   .book-card .status {
-    margin: 0 20px 20px 20px;
-    padding: 5px 10px;
-    font-size: 0.8rem;
-    font-weight: 500;
-    border-radius: 3px;
-    align-self: flex-start;
-    color: #fff;
-  }
-
-  .book-card.ongoing .status { background-color: #17a2b8; }
-  .book-card.planned .status { background-color: #ffc107; color: #000; }
-  .book-card.finished .status { background-color: #28a745; }
-
-  .book-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+    margin: 20px auto 10px auto;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-weight: 600;
+    align-self: center !important;
   }
 }

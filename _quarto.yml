@@ -5,18 +5,22 @@ project:
 website:
   title: "Rofikul Masud"
   description: "Developer | Writer | Researcher"
-  favicon: images/icon_main.png
+  favicon: images/icon_main_3.png
 
   navbar:
     right:
       - text: Articles
         href: articles/index.qmd
       - text: Publications
-        href: publications/publication.qmd
+        href: publications/index.qmd
       - text: Blog
         href: blog/index.qmd
       - text: Notes
         href: notes/index.qmd
+      - text: Books
+        href: books/index.qmd
+
+
 
 
 format:

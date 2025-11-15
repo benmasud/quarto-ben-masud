@@ -7,55 +7,45 @@ format:
     toc: false
     number-sections: false
     css:
-      - CSS/my-fonts.css       # font CSS from root
-      - index.css 
+      - CSS/my-fonts.css
+      - index.css
     header-includes: |
       <!-- Bootstrap Icons -->
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-      <style>
-        /* Add a vertical line between the two columns */
-        .two-col {
-          display: flex;
-          align-items: flex-start;
-          gap: 1.5cm;
-          position: relative;
-        }
-        .two-col::before {
-          content: "";
-          position: absolute;
-          left: 35%;
-          top: 0;
-          bottom: 0;
-          width: 1.5px;
-          background-color: #ccc;
-        }
-
-      </style>
 fontsize: 12pt
 geometry: margin=1in
 ---
 
-::: {.two-col}
+<div class="home-container">
 
-::: {.column width="35%" .text-center}
-![](images/profile-photo-2.JPG){.img-fluid style="width:320px; height:410px; object-fit:cover; border-radius:8px;"}
+<!-- ===== Left section: photo + social links ===== -->
+<div class="home-left">
+
+
+![](images/profile-photo-9.JPG){.img-fluid style="max-width:320px; height:auto; object-fit:cover; border-radius:8px; display:block; margin:auto;"}
+
+<div style="text-align: center;">
 
 ### Rofikul Masud
 
+***Alma Mater*** <br>
+Novosibirsk State University  
+Bachelor of Science in Computer Science  
+Class of 2025
 
-<!-- Social links grid -->
+</div>
+
+
+<!-- Social links -->
 <ul class="social-links-grid">
-  <li><a href="mailto:r.masud@g.nsu.ru"><i class="bi bi-envelope-fill"></i> Email</a></li>
   <li><a href="https://t.me/ovid_d" target="_blank"><i class="bi bi-telegram"></i> Telegram</a></li>
   <li><a href="https://www.linkedin.com/in/rofikul-masud-a984a3267/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a></li>
-  <li><a href="https://github.com/benmasud" target="_blank"><i class="bi bi-github"></i> GitHub</a></li>
   <li><a href="https://orcid.org/0009-0009-1917-8320" target="_blank"><i class="bi bi-person-badge-fill"></i> ORCID</a></li>
 </ul>
+</div>
 
-
-:::
-
-::: {.column width="65%"}
+<!-- ===== Right section: about + books ===== -->
+<div class="home-right">
 ### About me
 
 Hi there! I’m Rofikul Masud. My journey with computers started with curiosity and code, leading me to earn a Bachelor’s degree in Computer Science at Novosibirsk National Research State University. I am now preparing to begin my Master’s, keeping the dream of a PhD in Machine Learning firmly in sight.
@@ -70,34 +60,29 @@ Wish to talk, write me anytime!
 
 ::: {.book-cards}
 
-::: {.book-cards}
-
 <div class="book-card ongoing">
   <img src="book-covers/Australian stories.jpg" alt="Australian short stories">
   <h5>Australian short stories</h5>
-  <p>Author: Various - USSR 1974 edition </p>
+  <p>Various Author</p>
+  <p>1975 edition - Moscow, USSR</p>
   <span class="status">Ongoing</span>
 </div>
 
 <div class="book-card planned">
-  <img src="book-covers/ThusSpakeZarathustra_final.jpg" alt="Thus Spoke Zarathustra">
-  <h5>Thus Spoke Zarathustra</h5>
-  <p>Author: Friedrich Nietzsche</p>
-  <span class="status">Planned</span>
+  <img src="book-covers/by-night-in-chile.jpg" alt="By Night in Chile">
+  <h5>By Night in Chile</h5>
+  <p>Roberto Bolaño</p>
+  <span class="status">Ongoing</span>
 </div>
 
 <div class="book-card finished">
   <img src="book-covers/Arannak.jpg" alt="Aranyakr - Of the Forest">
   <h5>Aranyak - Of the Forest</h5>
-  <p>Author: Bibhutibhushan Bandyopadhyay</p>
+  <p>Bibhutibhushan Bandyopadhyay</p>
   <span class="status">Finished</span>
 </div>
 :::
 
+</div> <!-- home-right -->
 
-
-:::
-
-
-
-:::
+</div> <!-- home-container -->
