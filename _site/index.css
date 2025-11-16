@@ -3,12 +3,7 @@
 /* =======================================================
    General Page Styles
 ======================================================= */
-body {
-  font-family: 'YourFont', sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
+
 
 /* =======================================================
    Home Container Layout
@@ -28,9 +23,29 @@ body {
     display: grid;
     grid-template-columns: 35% 65%;
     gap: 2rem;
-    align-items: start;
+    align-items: start; /* keep as start */
+  }
+
+  .home-right > *:first-child {
+  margin-top: 0 !important;
+  }
+
+
+  .home-left,
+  .home-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* forces top alignment */
+  }
+
+  /* Remove extra top margin from headings in right column */
+  .home-right h3:first-child,
+  .home-right h2:first-child,
+  .home-right h1:first-child {
+    margin-top: 0;
   }
 }
+
 
 /* =======================================================
    Left Section: Photo + Name + Social

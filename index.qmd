@@ -22,20 +22,23 @@ geometry: margin=1in
 <div class="home-left">
 
 
-![](images/profile-photo-9.JPG){.img-fluid style="max-width:320px; height:auto; object-fit:cover; border-radius:8px; display:block; margin:auto;"}
+![](images/profile-photo-9.jpg){.img-fluid 
+style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; display:block; margin:auto;"}
 
 <div style="text-align: center;">
 
 ### Rofikul Masud
 
-***Alma Mater*** <br>
-Novosibirsk State University  
-Bachelor of Science in Computer Science  
-Class of 2025
+
+<div style="text-align: center;">
+
+*Alma Mater*  
+Novosibirsk State University — Class of 2025  
 
 </div>
 
 
+</div>
 <!-- Social links -->
 <ul class="social-links-grid">
   <li><a href="https://t.me/ovid_d" target="_blank"><i class="bi bi-telegram"></i> Telegram</a></li>
@@ -48,11 +51,15 @@ Class of 2025
 <div class="home-right">
 ### About me
 
-Hi there! I’m Rofikul Masud. My journey with computers started with curiosity and code, leading me to earn a Bachelor’s degree in Computer Science at Novosibirsk National Research State University. I am now preparing to begin my Master’s, keeping the dream of a PhD in Machine Learning firmly in sight.
+Hi there! You can call me Rafik.  
+I recently completed my Bachelor’s degree in Computer Science at Novosibirsk State University, and I’m now preparing to begin my Master’s and eventually a PhD. My long-term goal is to build a career in academia and research.
 
-Outside academia, I move between the worlds of history and arts. Classical music, both Western and South Asian, literature, philosophy, and documentaries shape how I see the world. Museums, theatres, and engaging debates remind me that understanding people is as important as understanding data.
+My academic interests revolve around Computational Natural Science, Geoinformatics, and Digital Humanities. I’m  keen on exploring how we can better understand the natural world, culture, and human behavior through new computational approaches.
 
-I also enjoy writing, sharing reflections on history, art, and personal experiences through blogs and short stories. Language fascinates me as much as logic. I speak English and Russian fluently and I am currently learning German, enjoying the challenge of uncovering its subtle complexities.
+Outside academia, I’m passionate about contemporary history, arts, literature, and both Eastern and Western philosophy. I love watching documentaries, exploring music—from classical to indie rock to folk traditions—and engaging in thoughtful discussions and debates. I also enjoy writing about my thoughts and experiences through blogs and short journals.
+
+I speak English and Russian fluently, and I’m currently learning German.
+
 
 Wish to talk, write me anytime! 
 
