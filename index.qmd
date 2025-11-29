@@ -32,9 +32,12 @@ style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; displ
 
 <div style="text-align: center;">
 
-*Alma Mater*  
-Novosibirsk State University — Class of 2025  
+Ruprecht-Karls-Universität Heidelberg <br>
+MSc. in Data and Computer Science — Class of 2028
 
+*Alma Mater*  
+Novosibirsk State University <br>
+BSc. in Computer Science — Class of 2025  
 </div>
 
 
@@ -51,7 +54,7 @@ Novosibirsk State University — Class of 2025
 <div class="home-right">
 ### About me
 
-Hi there! You can call me Rafik.  
+You can call me Rafik.  
 I recently completed my Bachelor’s degree in Computer Science at Novosibirsk State University, and I’m now preparing to begin my Master’s and eventually a PhD. My long-term goal is to build a career in academia and research.
 
 My academic interests revolve around Computational Natural Science, Geoinformatics, and Digital Humanities. I’m  keen on exploring how we can better understand the natural world, culture, and human behavior through new computational approaches.

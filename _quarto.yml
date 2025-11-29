@@ -15,8 +15,8 @@ website:
         href: publications/index.qmd
       - text: Blog
         href: blog/index.qmd
-      - text: Notes
-        href: notes/index.qmd
+      - text: ARTS 
+        href: ARTS/index.qmd
       - text: Books
         href: books/index.qmd
 
@@ -33,10 +33,9 @@ format:
 resources:
   - CSS/**
   - images/**
-  - resume/**
   - publications/**
   - blog/**
-  - notes/**
+  - ARTS/**
   - books/**
   - articles/**
   - book-covers/**
