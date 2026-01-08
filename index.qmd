@@ -32,8 +32,8 @@ style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; displ
 
 <div style="text-align: center;">
 
-Ruprecht-Karls-Universität Heidelberg <br>
-MSc. in Data and Computer Science — Class of 2028
+Rheinische Friedrich-Wilhelms-Universität Bonn
+MSc. in Computer Science — Class of 2028
 
 *Alma Mater*  
 Novosibirsk State University <br>
