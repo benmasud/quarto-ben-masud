@@ -32,7 +32,7 @@ style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; displ
 
 <div style="text-align: center;">
 
-Rheinische Friedrich-Wilhelms-Universität Bonn
+Rheinische Friedrich-Wilhelms-Universität Bonn <br>
 MSc. in Computer Science — Class of 2028
 
 *Alma Mater*  

@@ -1,11 +1,12 @@
 ---
-title: ""
+title: "Publications"
 format:
   html:
     theme: flatly
     toc: false
     page-layout: full
     number-sections: false
+    title-block: false
     css: /CSS/my-fonts.css
     header-includes: |
       <!-- Bootstrap Icons -->
