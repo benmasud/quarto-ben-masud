@@ -1,0 +1,54 @@
+---
+title: "Articles"
+format:
+  html:
+    theme: flatly
+    page-layout: full
+    toc: false
+    number-sections: false
+    css:
+      - /CSS/my-fonts.css
+      - index.css
+    header-includes: |
+      <!-- Bootstrap Icons -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+      <script src="articles/index.js" defer></script>
+
+fontsize: 12pt
+geometry: margin=1in
+---
+
+#### Selected Recent Readings
+
+<div id="jstor-articles-container">
+
+<div class="article-card">
+  <h4>The Concept of Civilization from Enlightenment to Revolution: An Ambiguous Transfer</h4>
+  <p>Raymonde Monnier<br>
+  <em>Contributions to the History of Concepts</em>, Vol. 4, No. 1 (2008), pp. 106 to 136</p>
+  <a href="https://www.jstor.org/stable/23730859" target="_blank">View on JSTOR</a><br>
+  <a href="https://disk.yandex.ru/i/uJGGGJ0GbNq5MQ" target="_blank" class="article-card-link">
+    <i class="bi bi-file-earmark-pdf"></i> Open PDF
+  </a>
+</div>
+
+<div class="article-card">
+  <h4>Empire and Civilizing Missions, Past and Present</h4>
+  <p>Kenneth Pomeranz<br>
+  <em>Daedalus</em>, Vol. 134, No. 2 (Spring 2005), pp. 34 to 45</p>
+  <a href="https://www.jstor.org/stable/20027976" target="_blank">View on JSTOR</a><br>
+  <a href="https://disk.yandex.ru/i/r_7ICNO4xPle9g" target="_blank" class="article-card-link">
+    <i class="bi bi-file-earmark-pdf"></i> Open PDF
+  </a>
+</div>
+
+<div class="article-card">
+  <h4>Eurocentrism, civilization and the barbarians</h4>
+  <p>In <em>Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent</em> (2015), pp. 31 to 56</p>
+  <a href="https://doi.org/10.2307/j.ctt1mf71b8.7" target="_blank">View via DOI</a><br>
+  <a href="https://disk.yandex.ru/i/TA0X_OOKDK1_Mg" target="_blank" class="article-card-link">
+    <i class="bi bi-file-earmark-pdf"></i> Open PDF
+  </a>
+</div>
+
+</div>

@@ -1,0 +1,151 @@
+@import url('..CSS/my-fonts.css');
+
+/* =========================
+   Articles Containers
+========================= */
+#jstor-articles-container,
+#guardian-articles-container {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row on desktop */
+  gap: 20px;
+  justify-items: center; /* center each card */
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  #jstor-articles-container,
+  #guardian-articles-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 per row on tablet */
+  }
+}
+
+@media (max-width: 600px) {
+  #jstor-articles-container,
+  #guardian-articles-container {
+    grid-template-columns: 1fr; /* 1 per row on mobile */
+  }
+}
+
+
+/* Only Guardian cards have images */
+#guardian-articles-container .article-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* Responsive for Guardian images */
+@media (max-width: 600px) {
+  #guardian-articles-container .article-card img {
+    height: 150px;
+  }
+}
+
+
+/* =========================
+   Article Card (Poker Card Style)
+========================= */
+.article-card {
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 15px;
+  background-color: white;
+  max-width: 320px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+.article-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.article-card h4 {
+  margin: 0 0 10px 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.article-card p {
+  margin: 0 0 10px 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.article-card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.article-card a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   PDF Request Button
+========================= */
+.pdf-request-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  margin-top: auto; /* push to bottom */
+}
+
+.pdf-request-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.pdf-request-btn i {
+  font-size: 1.1rem;
+}
+
+/* =========================
+   Load More Button
+========================= */
+#load-more {
+  display: block;
+  margin: 30px auto 0 auto;
+  padding: 12px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: transparent;
+  color: black;
+  transition: background-color 0.2s ease, color 0.2s ease, text-decoration 0.2s ease;
+}
+
+#load-more:hover {
+  background-color: black;
+  color: white;
+}
+
+/* Responsive Card Images */
+@media (max-width: 600px) {
+  .article-card img {
+    height: 150px;
+  }
+}
