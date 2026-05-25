@@ -53,44 +53,31 @@ BSc. in Computer Science — Class of 2025
 <!-- ===== Right section: about + books ===== -->
 <div class="home-right">
 ### About me
+You can call me Rafik. <br>
+CS Master's student at the University of Bonn, working toward a PhD somewhere down the line.My interests live at a weird and wonderful crossroads between Computational Astrophysics, Geoinformatics, and Digital Humanities. In short, I like using computers to ask big questions, whether that's about the cosmos, the planet, or the humans living on it. <br>
+When I'm not studying, you'll find me diving into contemporary history, philosophy, literature, or music anywhere from classical to indie rock to folk. I write the occasional blog, love to watch documentaries, and enjoy a good debate.
+Fluent in Russian and English, slowly figuring out German.
 
-You can call me Rafik.  
-I recently completed my Bachelor’s degree in Computer Science at Novosibirsk State University, and I’m now preparing to begin my Master’s and eventually a PhD. My long-term goal is to build a career in academia and research.
+Well, feel free to reach out anytime. 
 
-My academic interests revolve around Computational Natural Science, Geoinformatics, and Digital Humanities. I’m  keen on exploring how we can better understand the natural world, culture, and human behavior through new computational approaches.
-
-Outside academia, I’m passionate about contemporary history, arts, literature, and both Eastern and Western philosophy. I love watching documentaries, exploring music—from classical to indie rock to folk traditions—and engaging in thoughtful discussions and debates. I also enjoy writing about my thoughts and experiences through blogs and short journals.
-
-I speak English and Russian fluently, and I’m currently learning German.
-
-
-Wish to talk, write me anytime! 
-
-### Books I’m Reading
+### What I'm doing now?
 
 ::: {.book-cards}
 
 <div class="book-card ongoing">
-  <img src="book-covers/Australian stories.jpg" alt="Australian short stories">
-  <h5>Australian short stories</h5>
-  <p>Various Author</p>
-  <p>1975 edition - Moscow, USSR</p>
+  <img src="book-covers/great-expectations.jpg" alt="Great Expectations">
+  <h5>Great Expectations</h5>
+  <p>Charles Dickens</p>
   <span class="status">Ongoing</span>
 </div>
 
-<div class="book-card planned">
-  <img src="book-covers/by-night-in-chile.jpg" alt="By Night in Chile">
-  <h5>By Night in Chile</h5>
-  <p>Roberto Bolaño</p>
+<div class="book-card ongoing">
+  <img src="book-covers/barbarians-to-angels.jpg" alt="Barbarians to Angels: The Dark Ages Reconsidered">
+  <h5>Barbarians to Angels: The Dark Ages Reconsidered</h5>
+  <p>Peter S. Wells</p>
   <span class="status">Ongoing</span>
 </div>
 
-<div class="book-card finished">
-  <img src="book-covers/Arannak.jpg" alt="Aranyakr - Of the Forest">
-  <h5>Aranyak - Of the Forest</h5>
-  <p>Bibhutibhushan Bandyopadhyay</p>
-  <span class="status">Finished</span>
-</div>
 :::
 
 </div> <!-- home-right -->
