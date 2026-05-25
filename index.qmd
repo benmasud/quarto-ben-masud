@@ -22,7 +22,7 @@ geometry: margin=1in
 <div class="home-left">
 
 
-![](images/profile-photo-9.jpg){.img-fluid 
+![](images/profile-photo-2.jpg){.img-fluid 
 style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; display:block; margin:auto;"}
 
 <div style="text-align: center;">
