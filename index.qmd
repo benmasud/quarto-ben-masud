@@ -21,7 +21,7 @@ geometry: margin=1in
 <!-- ===== Left section: photo + social links ===== -->
 <div class="home-left">
 
-![](images/profile-photo-2.JPG){.img-fluid 
+![](images/dp.jpg){.img-fluid 
 style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; display:block; margin:auto;"}
 
 <div style="text-align: center;">
