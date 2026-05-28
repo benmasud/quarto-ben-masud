@@ -1,0 +1,4 @@
+to run the file from root use
+deno run --allow-net --allow-read https://deno.land/std@0.210.0/http/file_server.ts _site
+
+and then open the local host port, that's all

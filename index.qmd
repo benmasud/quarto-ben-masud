@@ -21,8 +21,8 @@ geometry: margin=1in
 <!-- ===== Left section: photo + social links ===== -->
 <div class="home-left">
 
-![](images/dp.jpg){.img-fluid 
-style="max-width:260px; height:auto; object-fit:cover; border-radius:12px; display:block; margin:auto;"}
+![](images/profile.jpg){.img-fluid
+style="width:180px; height:180px; object-fit:cover; border-radius:50%; display:block; margin:auto;"}
 
 <div style="text-align: center;">
 
@@ -58,26 +58,14 @@ When I'm not studying, you'll find me diving into contemporary history, philosop
 Fluent in Russian and English, slowly figuring out German.
 
 Well, feel free to reach out anytime. 
+<br>
 
-### What I'm doing now?
 
-::: {.book-cards}
+### What I'm reading now?
 
-<div class="book-card ongoing">
-  <img src="book-covers/great-expectations.jpg" alt="Great Expectations">
-  <h5>Great Expectations</h5>
-  <p>Charles Dickens</p>
-  <span class="status">Ongoing</span>
-</div>
-
-<div class="book-card ongoing">
-  <img src="book-covers/barbarians-to-angels.jpg" alt="Barbarians to Angels: The Dark Ages Reconsidered">
-  <h5>Barbarians to Angels: The Dark Ages Reconsidered</h5>
-  <p>Peter S. Wells</p>
-  <span class="status">Ongoing</span>
-</div>
-
-:::
+<p>
+I'm currently reading two wonderful books. <strong>Great Expectations</strong> by Charles Dickens is a classic worth reading if you enjoy literature focused on personal development and social change, and I strongly recommend it so far. Alongside it, <strong>Barbarians to Angels</strong> by Peter S. Wells offers a fresh perspective on the so called Dark Ages after the fall of the Western Roman Empire. It is a particularly interesting read for its archaeological and historical insights, and it also includes many interesting illustrations, which I quite like. I received this book as a gift from my friend's father back in Novosibirsk, who works on Byzantine history and iconography, so it is a special recommendation from an expert in the field.
+</p>
 
 </div> <!-- home-right -->
 

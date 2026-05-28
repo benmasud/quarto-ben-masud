@@ -280,3 +280,90 @@
     align-self: center !important;
   }
 }
+
+
+
+/* =======================================================
+   Reading Boxes (New Book Layout)
+======================================================= */
+
+.reading-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+/* single box */
+.reading-box {
+  border: 1px solid #d9d9d9;
+  border-radius: 12px;
+  padding: 18px;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.reading-box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+
+.reading-box h4 {
+  margin: 0 0 10px 0;
+  font-size: 1.1rem;
+}
+
+.reading-box p {
+  margin: 0 0 10px 0;
+  line-height: 1.5;
+  color: #333;
+}
+
+.reading-box a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #0d6efd;
+}
+
+/* status badge */
+.reading-status {
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.reading-status.ongoing {
+  background: #e7f6ff;
+  color: #0878a4;
+}
+
+.reading-status.completed {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.reading-status.planned {
+  background: #fff3cd;
+  color: #856404;
+}
+
+@media (max-width: 899px) {
+
+  .reading-list {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .reading-box {
+    padding: 15px;
+  }
+
+  .reading-box h4 {
+    font-size: 1.05rem;
+  }
+
+  .reading-box p {
+    font-size: 0.95rem;
+  }
+}
