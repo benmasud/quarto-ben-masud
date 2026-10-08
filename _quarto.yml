@@ -1,41 +1,58 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - cv/index.qmd
+    - publications/index.qmd
+    - articles/index.qmd
+    - books/index.qmd
+    - ARTS/index.qmd
+  resources:
+    - assets/fonts/**
+    - cv/Resume_Rofikul_Masud_General_Oct2026.pdf
+    - files/software_certificate_RU2024687640.pdf.PDF
 
 website:
   title: "Rofikul Masud"
-  description: "Developer | Writer | Researcher"
+  description: "Computer science, research, and reading. Personal website of Rofikul Masud."
   favicon: images/icon_main_4.jpg
-
   navbar:
+    background: light
+    collapse-below: lg
     right:
-      - text: Articles
-        href: articles/index.qmd
       - text: Publications
         href: publications/index.qmd
-      - text: Blog
-        href: blog/index.qmd
-      - text: ARTS 
+      - text: CV
+        href: cv/index.qmd
+      - text: Reading
+        menu:
+          - text: Articles
+            href: articles/index.qmd
+          - text: Books
+            href: books/index.qmd
+      - text: Arts
         href: ARTS/index.qmd
-      - text: Books
-        href: books/index.qmd
-
-
-
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: "Rofikul Masud"
+    right:
+      - text: Email
+        href: mailto:r.ben.masud@gmail.com
+      - text: CV
+        href: cv/index.qmd
 
 format:
   html:
-    page-layout: full
-    theme: flatly
+    theme:
+      - cosmo
+      - assets/styles.scss
+    css: /assets/fonts.css
+    page-layout: article
     toc: false
-
-
-resources:
-  - CSS/**
-  - images/**
-  - publications/**
-  - blog/**
-  - ARTS/**
-  - books/**
-  - articles/**
-  - book-covers/**
+    number-sections: false
+    lang: en
+    link-external-newwindow: true
+    smooth-scroll: true

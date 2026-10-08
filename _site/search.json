@@ -1,58 +1,142 @@
 [
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications\n\n\n\nUsing Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device\n\n\nAuthor(s): Alexander Vlasov, Rofikul Masud, Galina Bykova 2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE)\n\n  Request the Paper    Cite This \n\n\n\n\n\n Software Patent\n\n\n\nBIS – Fast Interpretation of High-Frequency Electromagnetic Sounding Data\n\n\nAuthor(s): Galina Bykova (RU), Alexander Vlasov (RU), Rofikul Masud (BD) Registered Computer Program, Russian Federation, Certificate No. 2024687640, 11/20/2024\n\n\nSoftware for digital processing of high-frequency electromagnetic sounding signals during horizontal wellbore drilling. Functionalities include searching for model parameters matching experimental signals, calculating signals for individual models, and evaluating target functions. Operates with interval two-layer models considering layer resistance, anisotropy, dip angle, and depth. Compatible with Windows 10+, written in C++.\n\n  Request the File"
-  },
-  {
-    "objectID": "books/index.html",
-    "href": "books/index.html",
-    "title": "Rofikul Masud",
-    "section": "",
-    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for books and updates."
-  },
-  {
-    "objectID": "blog/june-2026/salome-rene.html",
-    "href": "blog/june-2026/salome-rene.html",
-    "title": "The Strangest Love Triangle in Philosophy History and My Free Time",
-    "section": "",
-    "text": "The Strangest Love Triangle in Philosophy History and My Free Time\n“Woman was God’s second mistake.” — Friedrich Nietzsche, The Antichrist (1895)\n\n\nFriedrich Nietzsche Reflection Philosophy\n\n\nSpring, 1882. Rome. A half-blind philosopher meets a twenty-year-old Russian woman in St. Peter’s Basilica and whispers: “From what stars have we fallen to meet each other here?”  The triangle goes like this: Nietzsche, the volcanic, increasingly lonely philosopher who had just quit his professorship and was wandering Europe in rented rooms. Paul Rée, his quieter friend, a positivist philosopher, gentle and genuinely kind. And Lou Andreas-Salomé, already twenty-one, terrifyingly brilliant, and completely uninterested in being anyone’s muse. Both men fell for her immediately. Both proposed marriage. She refused both of them.  What Lou wanted instead was something she called a Lerntrinität — a “learning trinity.” Three exceptional minds, living and thinking together, free from romantic obligation. No marriage. No possession. Just ideas. It’s a beautiful idea. It was also, predictably, doomed.\n\nWhat Are My Thoughts?\nNietzsche built an entire cathedral of philosophy around one idea: stop resenting. Love your fate. Become someone who creates their own values without crawling back to others for approval. The Übermensch, amor fati, the will to power — it all points toward the same person: someone free, self-authored, unbothered by what they cannot control.\nThen Lou said no. And the cathedral collapsed in about a week.\nHe became bitter. He blamed Rée. He wrote things in private letters that his editors would later have to quietly manage. The wound didn’t heal it curdled, and it seeped into some of the ugliest passages about women he ever put on paper. This is the man who told us not to resent. This is what refusal did to him.\nLou, meanwhile, didn’t even look back. She just lived on her own terms, at her own pace, answering to nobody. She created her framework for existence before Nietzsche finished theorizing his. She was, by every measure he cared about, the thing he was trying to describe. The Übermensch showed up, said no thanks, and went to Berlin.\nHe wrote the philosophy. She inhabited it. That gap is not a footnote it’s the whole story.\nRée is the figure that haunts me most, though. He never pretended. He loved her, got refused, accepted it with a kind of grace that neither Nietzsche nor most people are capable of, and spent years as her quiet intellectual companion. Then he disappeared into the Swiss mountains in 1901 — accident or choice, nobody ever confirmed. He was fifty-two. History filed him under “Nietzsche’s friend,” which is one of the crueler things history has done to a thinker.\nThe triangle gets told as Nietzsche’s story because Nietzsche became a monument. But monuments distort perspective. If you actually follow the logic who was honest, who lived consistently, who didn’t flinch from their own philosophy Lou wins by a wide margin, Rée earns a quiet respect, and Nietzsche is a genius who couldn’t survive contact with his own ideas.  Which is, I suspect, exactly what Lou would have wanted you to conclude?\n\n10 January 2026 — Moscow Sheremetyevo Airport\nWritten during a six-hour layover with five hours left to spare. Thank you for reading. The writing was polished with grammatical assistance from Gemini, but the ideas and concepts are entirely my own."
-  },
-  {
     "objectID": "ARTS/index.html",
     "href": "ARTS/index.html",
-    "title": "Rofikul Masud",
+    "title": "Arts",
     "section": "",
-    "text": "This page is currently under construction 🚧\n\n\nCheck back soon for updates."
+    "text": "Music and literature are an important part of my life outside computer science. My listening ranges from classical music to indie rock and folk.\nI haven’t added a collection here yet. In the meantime, you can browse my reading list."
   },
   {
     "objectID": "articles/index.html",
     "href": "articles/index.html",
-    "title": "Articles",
+    "title": "Articles I’m reading",
     "section": "",
-    "text": "Selected Recent Readings\n\n\n\nThe Concept of Civilization from Enlightenment to Revolution: An Ambiguous Transfer\n\n\nRaymonde Monnier Contributions to the History of Concepts, Vol. 4, No. 1 (2008), pp. 106 to 136\n\nView on JSTOR   Open PDF \n\n\n\nEmpire and Civilizing Missions, Past and Present\n\n\nKenneth Pomeranz Daedalus, Vol. 134, No. 2 (Spring 2005), pp. 34 to 45\n\nView on JSTOR   Open PDF \n\n\n\nEurocentrism, civilization and the barbarians\n\n\nIn Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent (2015), pp. 31 to 56\n\nView via DOI   Open PDF"
+    "text": "A selection of articles and book chapters from my reading in history and philosophy. My own research is listed under Publications."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blogs",
-    "section": "",
-    "text": "Elisabeth Rousset or Boule de Suif\n2nd November, 2025\nA reflection on Maupassant, identity, and the social labeling of women through the lens of the story Boule de Suif.\nRead full post →\n\n\n\n\n\nNietzsche-Salomé-Rée Triangle\n10th January, 2026\nA philosopher who preached self-overcoming, a woman who actually lived it, and a quiet man history forgot. What this 1882 love triangle reveals about the gap between writing a philosophy and inhabiting one.\nRead full post →\n\n\n\n\n\nUs and Altai Mountains\nComing Soon\nThis blog post is currently under development."
+    "objectID": "articles/index.html#history-and-civilization",
+    "href": "articles/index.html#history-and-civilization",
+    "title": "Articles I’m reading",
+    "section": "History and civilization",
+    "text": "History and civilization\n\nThe Concept of Civilization from Enlightenment to Revolution: An Ambiguous Transfer\nRaymonde Monnier. Contributions to the History of Concepts, 4(1), 2008, pp. 106–136.\nJSTOR · PDF\n\n\nEmpire and Civilizing Missions, Past and Present\nKenneth Pomeranz. Daedalus, 134(2), Spring 2005, pp. 34–45.\nJSTOR · PDF\n\n\nEurocentrism, civilization and the barbarians\nIn Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent, 2015, pp. 31–56.\nDOI · PDF"
   },
   {
-    "objectID": "blog/november-2025/boule_de_suif.html",
-    "href": "blog/november-2025/boule_de_suif.html",
-    "title": "Elisabeth Rousset or Boule de Suif",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "Elisabeth Rousset or Boule de Suif\nA Reflection on Maupassant, Identity, and the Art of Labeling\n\n\nLiterature Reflection Philosophy\n\n\n2nd November, 2025\n\n\nI started reading de Maupassant in 9th grade. There was a story of his, translated into Bengali, about a necklace about how Matilda was so utterly absorbed in it, yet so blind to the world around her. Perhaps material attraction is just too powerful for anyone to resist. But was it specifically a trait of women’s desire, or is it something universal? We love to label things; it seems almost in our nature. And once we label, we proudly declare that we are not part of it, that we belong only to all that is “good.” But what does it even mean to be good? Who decides?\nI started reading Boule de Suif on the train. I wasn’t sure if I’d be able to finish it on time, since managing time has always been hard for me mostly because I waste so much of it doing absolutely nothing. Maybe that’s why I decided to be a little productive for once, even if just for 35 minutes trying to do something instead of staring out the window. There’s nothing new to see anyway. I’ve been traveling from Akadem to the city for almost a year now, and nothing ever really changes. Especially in winter everything looks the same, as if a thick white blanket has quietly covered the world.\nAnd I can’t even stare at my co-travelers. What would they think? Though, perhaps they’re having the same thoughts. Most of them are glued to their phones, scrolling endlessly as if there’s no real reason to use it, yet still doing it for the next forty minutes without a break. A few people just close their eyes. I think they’re the most peaceful ones. I wish I could do that but I’m not good at it. Somehow, it feels awkward. So reading seems like the best option for me. At first, I thought Boule de Suif might be some romantic writing that was my initial impression when I started reading. However, it is a bit difficult to understand in the first one or two pages, as it seems to mix themes of war and romance.\nBack to the story Elizabeth Rousset, our main protagonist, is a kind-hearted and patriotic woman, nicknamed “Boule de Suif” because of her plump figure (the name literally translates to “ball of fat”). So, she is a prostitute traveling with a group of bourgeois passengers fleeing the Prussian invasion during the Franco-Prussian War. Despite the disdain the others show her because of her profession, Elizabeth stands out for her generosity and courage — sharing her food and standing firm in her principles. There is no doubt she is a moral woman. Long story short, when a Prussian officer demands her favors as the price for allowing the group to continue their journey, she initially refuses to compromise her dignity. But under pressure, she sacrifices herself for the group’s sake. In the end, she is rejected and shunned by the very people she helped.\nNow, what I really wanted to share is my opinion about how Guy de Maupassant chose to use the name Boule de Suif instead of Elizabeth (or Elisabeth) Rousset. In the story, Maupassant uses the nickname “Boule de Suif” around 30 to 40 times, maybe even more. I didn’t count exactly, but I have a pretty clear idea. It’s the main way the protagonist is identified throughout the story. In contrast, her real name, Elizabeth Rousset, appears only about three times that I’m quite sure of. And here’s the thing worth noticing is that this sharp difference isn’t random. It highlights the very social phenomenon Maupassant is critiquing.\nWhere I grew up, almost everyone had a nickname. It usually came from something about how they looked, what they did in the past, or their profession , sometimes even just a random quirk about their appearance. I still remember my father calling a close family friend by his nickname. It was a funny one, really there was nothing wrong with the man; he was perfectly fine and well-built. But my father used to call him by a word that actually meant “petty thief.” Curious, I once asked my father what it meant. He laughed and said that the man used to steal fruits when he was young, and from then on, everyone in the village started calling him by that name. It was funny at first, but over time, it just stuck. And I believe it’ll be really hard for anyone to separate that nickname from his identity now. One thing was clear , if you did something great, your name would carry that greatness too. If you had the heart of a lion, you became the “lion-hearted.” Not wrong, actually — just look at Richard the Lionheart or Catherine the Great of Russia. But our protagonist, Elizabeth, was on the opposite side of that, unfortunately.\nThis naming pattern in the story clearly shows how women like Elizabeth are often reduced to labels defined by their physical appearance or social role rather than their individuality. It’s hard to hold on to your own sense of self when society has already “categorized” you based on your profession or status. Here, Elizabeth becomes a powerful metaphor. We’re still practicing the same norms, labeling people and boxing them into identities and honestly, I believe it’s something very hard to change. It’s clear that Maupassant uses this contrast to reveal the hypocrisy of social norms and class prejudice. The rare mention of Elizabeth’s real name marks those brief moments when her true identity and humanity manage to break through the layers of stereotype that society has placed on her.\nSo, I guess we’ve mastered the art of labeling things. Maybe the harder question now is — can we ever stop?\n\nNovosibirsk, Russia"
+    "text": "Rofikul Masud · Bonn, Germany\nben-masud.org · r.ben.masud@gmail.com\nDownload CV (PDF)\nUpdated 8 October 2026"
+  },
+  {
+    "objectID": "cv/index.html#profile",
+    "href": "cv/index.html#profile",
+    "title": "Curriculum vitae",
+    "section": "Profile",
+    "text": "Profile\nMSc Computer Science student at the University of Bonn with a background in machine learning, data science and software development. Research experience at institutes of the Russian Academy of Sciences, industry experience as a machine learning developer in the financial sector, and current work in university IT administration. Analytical, adaptable and used to international, interdisciplinary teams."
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum vitae",
+    "section": "Education",
+    "text": "Education\n\nMSc Computer Science\nUniversity of Bonn, Institute of Computer Science\nApril 2026–2028 · Bonn, Germany\nStudies in progress; GPA not yet available.\n\n\nBSc Computer Science and Computer Engineering\nNovosibirsk State University\nSeptember 2021–July 2025 · Novosibirsk, Russia"
+  },
+  {
+    "objectID": "cv/index.html#work-experience",
+    "href": "cv/index.html#work-experience",
+    "title": "Curriculum vitae",
+    "section": "Work experience",
+    "text": "Work experience\n\nStudent Assistant (Studentische Hilfskraft)\nBonn Graduate School of Economics (BGSE)\nJuly 2026–present · Bonn, Germany\n\nIT administration and website maintenance.\n\n\n\nJunior Machine Learning Developer\nAITISIB LLC\nJuly 2024–June 2025 · Novosibirsk, Russia\n\nDeveloped and maintained scalable, secure solutions for financial institutions, integrating AI and machine learning models.\nAutomated workflows, managed CI/CD pipelines and optimised infrastructure for traditional and AI-driven applications.\n\n\n\nData Science Intern (R&D)\nSberbank-Technology, Model Risk Management\nMay 2024–July 2024 · Novosibirsk, Russia\n\nDeveloped and validated machine learning models for risk prediction; automated processes in Python and ensured data quality.\n\n\n\nCo-founder\nPriests of Ob Sea (student start-up, NSU)\nNovember 2023–March 2026 · Novosibirsk, Russia\n\nBuilt software, mobile and AI-based products with a five-person team; took part in national hackathons and secured funding.\nRoles: UI/UX designer, full-stack developer, ML developer, tester."
+  },
+  {
+    "objectID": "cv/index.html#research-experience",
+    "href": "cv/index.html#research-experience",
+    "title": "Curriculum vitae",
+    "section": "Research experience",
+    "text": "Research experience\n\nResearch Intern · Artificial Intelligence Laboratory\nA. P. Ershov Institute of Informatics Systems (RAS, Siberian Branch)\nJune 2025–March 2026\n\n\nResearch Intern · Laboratory of Machine Graphic Software Systems\nInstitute of Automation and Electrometry (RAS, Siberian Branch)\nNovember 2024–May 2025\n\n\nResearch Intern · Laboratory of Modern Computer Technologies\nNovosibirsk State University\nSeptember 2024–May 2025\n\n\nBachelor’s thesis\nML for direct and inverse problems in borehole logging (VIKPB device signals)\nSeptember 2024–June 2025\n\nLed to a peer-reviewed, Scopus-indexed publication in the IEEE XVII APEIE Conference Proceedings, 2025.\nAdvisor: Alexander A. Vlasov, PhD (NSU / Institute of Automation and Electrometry).\n\n\n\nBIS software · Co-author\nSeptember 2024–June 2025\n\nSoftware for rapid analysis of high-frequency borehole measurement data (C++, Python); officially registered, Certificate No. RU2024687640."
+  },
+  {
+    "objectID": "cv/index.html#skills",
+    "href": "cv/index.html#skills",
+    "title": "Curriculum vitae",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Python, Java, C/C++, SQL, Go, JavaScript, Haskell.\nML / AI: Scikit-learn, TensorFlow, Keras, PyTorch; CNNs, RNNs, transformers; NLP (spaCy, Hugging Face); computer vision (OpenCV, YOLO).\nData: NumPy, Pandas, R, SQL; statistical analysis, time series, A/B testing; Matplotlib, Seaborn, Plotly, Tableau, Power BI.\nWeb and backend: React, HTML/CSS, Flask, FastAPI, REST APIs, microservices; MySQL, PostgreSQL, SQLite.\nDevOps and tools: Docker, Nginx, CI/CD, Linux administration, shell scripting; AWS, GCP; Git, GitHub, GitLab, Jira; Selenium, Postman, PyTest, JUnit."
+  },
+  {
+    "objectID": "cv/index.html#languages",
+    "href": "cv/index.html#languages",
+    "title": "Curriculum vitae",
+    "section": "Languages",
+    "text": "Languages\nEnglish (C1) · Russian (B2) · German (A2, preparing for B1)"
+  },
+  {
+    "objectID": "cv/index.html#volunteering-and-interests",
+    "href": "cv/index.html#volunteering-and-interests",
+    "title": "Curriculum vitae",
+    "section": "Volunteering and interests",
+    "text": "Volunteering and interests\nMentor in a university mental health peer-support club; organiser of literary evenings at the university library; member of a cycling club and an archery club.\nInterests: reading, blogging, hiking, swimming, reciting poetry."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rofikul Masud",
     "section": "",
-    "text": "Rofikul Masud\n\nRheinische Friedrich-Wilhelms-Universität Bonn  MSc. in Computer Science — Class of 2028\nAlma Mater\nNovosibirsk State University  BSc. in Computer Science — Class of 2025\n\n\n\n\n\n Telegram\n\n\n LinkedIn\n\n\n ORCID\n\n\n\n\n\n\nAbout me\nYou can call me Rafik.  I’m a first year MSc Computer Science student at Uni Bonn. I won’t say too much about me, but I have a wide range of interests and a great passion for learning and exploring. As they say, there’s always more to discover and I trully believe it.\nAaa when I’m not studying, you’ll find me diving into contemporary history, philosophy, literature, and music anywhere from classical to indie rock to folk. Also, I write blogs occationally, specially about travels, books and ect, whatever interests me.\nI’m Fluent in Russian and English, and slowly figuring out German. So, feel free to reach out anytime. \n\n\nWhat I’m reading now?\n\n\n\nGreat Expectations — Charles Dickens\n\n\n\n\nBarbarians to Angels — Peter S. Wells"
+    "text": "You can call me Rafik. I’m an MSc Computer Science student at the University of Bonn, with an expected graduation in 2028. I completed my bachelor’s degree in Computer Science at Novosibirsk State University in 2025.\nMy research experience includes machine learning and computational modelling, particularly the interpretation of high-frequency electromagnetic data. You can find my research outputs on the Publications page and more about my education, experience, and projects in my CV."
+  },
+  {
+    "objectID": "index.html#beyond-computer-science",
+    "href": "index.html#beyond-computer-science",
+    "title": "Rofikul Masud",
+    "section": "Beyond computer science",
+    "text": "Beyond computer science\nI’m interested in contemporary history, philosophy, and literature. Music is another constant, from classical to indie rock and folk. I enjoy learning across these interests and finding new things to explore.\nI speak English and Russian, and I’m slowly figuring out German. Feel free to get in touch."
+  },
+  {
+    "objectID": "index.html#reading",
+    "href": "index.html#reading",
+    "title": "Rofikul Masud",
+    "section": "Reading",
+    "text": "Reading\nCurrently reading:\n\nContact — Carl Sagan\nBeyond Good and Evil — Friedrich Nietzsche\nThe First Philosophers: The Presocratics and the Sophists — translated by Robin Waterfield\n\nBrowse my books and selected articles for more of what I’m reading."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My work has focused on machine learning and computational methods for interpreting geophysical data."
+  },
+  {
+    "objectID": "publications/index.html#conference-papers",
+    "href": "publications/index.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference papers",
+    "text": "Conference papers\n\nUsing Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device\nAlexander Vlasov, Rofikul Masud, and Galina Bykova.\n2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE), 2025.\nRequest a copy by email"
+  },
+  {
+    "objectID": "publications/index.html#registered-software",
+    "href": "publications/index.html#registered-software",
+    "title": "Publications",
+    "section": "Registered software",
+    "text": "Registered software\n\nBIS — Fast Interpretation of High-Frequency Electromagnetic Sounding Data\nGalina Bykova, Alexander Vlasov, and Rofikul Masud.\nRegistered computer program, Russian Federation. Certificate No. 2024687640, 20 November 2024.\nSoftware for processing and interpreting high-frequency electromagnetic sounding signals during horizontal wellbore drilling. It supports model parameter searches, signal calculation, and target-function evaluation using interval two-layer models, including resistivity, anisotropy, dip angle, and depth. Written in C++ for Windows 10 and later.\nRegistration certificate (PDF) · Enquire about the software"
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "My reading ranges across literature, history, and philosophy. Here are the books I’m currently reading and those I’ve already read."
+  },
+  {
+    "objectID": "books/index.html#currently-reading",
+    "href": "books/index.html#currently-reading",
+    "title": "Books",
+    "section": "Currently reading",
+    "text": "Currently reading\n\n\n\nContact\nCarl Sagan\nScience fiction\n\n\n\n\n\nBeyond Good and Evil\nFriedrich Nietzsche\nPhilosophy\n\n\n\n\n\nThe First Philosophers: The Presocratics and the Sophists\nTranslated by Robin Waterfield\nPhilosophy"
+  },
+  {
+    "objectID": "books/index.html#already-read",
+    "href": "books/index.html#already-read",
+    "title": "Books",
+    "section": "Already read",
+    "text": "Already read\n\n\n\nGreat Expectations\nCharles Dickens\nLiterature\n\n\n\n\n\nBarbarians to Angels\nPeter S. Wells\nHistory\n\n\nFor shorter reading, see my selected articles."
   }
 ]

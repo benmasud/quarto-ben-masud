@@ -1,0 +1,29 @@
+/* Keep font URLs relative to this stylesheet, not the compiled Quarto theme. */
+@font-face {
+  font-family: "Gill Sans";
+  src: url("fonts/gillsansmt.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("fonts/gill-sans-mt-bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gill Sans";
+  src: url("fonts/gill-sans-mt-italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Adobe Caslon";
+  src: url("fonts/ACaslonPro-Semibold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}

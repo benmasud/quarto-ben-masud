@@ -1,26 +1,72 @@
 ---
-title: ""
-format:
-  html:
-    theme: flatly
-    page-layout: full
-    toc: false
-    number-sections: false
-    css: /CSS/my-fonts.css
-    header-includes: |
-      <!-- Bootstrap Icons -->
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-
-
-
-fontsize: 12pt
-geometry: margin=1in
-
-
+title: "Books"
+description: "Current reading and books I've read, from literature to history and philosophy."
 ---
 
-<div style="text-align: center; margin-top: 80px;">
-  <img src="/images/icon_main.png" alt="Under Construction" style="width: 250px; height: auto; margin-bottom: 20px;">
-  <h3>This page is currently under construction 🚧</h3>
-  <p>Check back soon for books and updates.</p>
-</div>
+My reading ranges across literature, history, and philosophy. Here are the books I'm currently reading and those I've already read.
+
+## Currently reading
+
+:::: {.book-entry}
+![](../book-covers/contact-sagan.jpg){fig-alt="Cover of Contact by Carl Sagan"}
+
+::: {}
+### Contact
+
+Carl Sagan
+
+*Science fiction*
+:::
+::::
+
+:::: {.book-entry}
+![](../book-covers/Beyond-Good-and-Evil.jpg){fig-alt="Cover of Beyond Good and Evil by Friedrich Nietzsche"}
+
+::: {}
+### Beyond Good and Evil
+
+Friedrich Nietzsche
+
+*Philosophy*
+:::
+::::
+
+:::: {.book-entry}
+![](../book-covers/The-First-Philosophers.jpg){fig-alt="Cover of The First Philosophers: The Presocratics and the Sophists, translated by Robin Waterfield"}
+
+::: {}
+### The First Philosophers: The Presocratics and the Sophists
+
+Translated by Robin Waterfield
+
+*Philosophy*
+:::
+::::
+
+## Already read
+
+:::: {.book-entry}
+![](../book-covers/great-expectations.jpg){fig-alt="Cover of Great Expectations"}
+
+::: {}
+### Great Expectations
+
+Charles Dickens
+
+*Literature*
+:::
+::::
+
+:::: {.book-entry}
+![](../book-covers/barbarians-to-angels.jpg){fig-alt="Cover of Barbarians to Angels"}
+
+::: {}
+### Barbarians to Angels
+
+Peter S. Wells
+
+*History*
+:::
+::::
+
+For shorter reading, see my [selected articles](../articles/index.qmd).

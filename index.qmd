@@ -1,79 +1,42 @@
 ---
-title: ""
-format:
-  html:
-    theme: flatly
-    page-layout: full
-    toc: false
-    number-sections: false
-    css:
-      - CSS/my-fonts.css
-      - index.css
-    header-includes: |
-      <!-- Bootstrap Icons -->
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
-fontsize: 12pt
-geometry: margin=1in
+title: "Rofikul Masud"
+subtitle: "Computer science · University of Bonn"
+about:
+  template: trestles
+  image: images/me_photo.jpg
+  image-alt: "Hooray, my profile avatar"
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:r.ben.masud@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rofikul-masud-a984a3267/
+    - text: ORCID
+      href: https://orcid.org/0009-0009-1917-8320
+    - icon: file-earmark-person
+      text: CV
+      href: cv/index.qmd
 ---
 
-<div class="home-container">
+You can call me Rafik. I'm an MSc Computer Science student at the **University of Bonn**, with an expected graduation in 2028. I completed my bachelor's degree in Computer Science at **Novosibirsk State University** in 2025.
 
-<!-- ===== Left section: photo + social links ===== -->
-<div class="home-left">
+My research experience includes machine learning and computational modelling, particularly the interpretation of high-frequency electromagnetic data. You can find my research outputs on the [Publications](publications/index.qmd) page and more about my education, experience, and projects in my [CV](cv/index.qmd).
 
-![](images/scart_dp.jpg){.img-fluid
-style="width:180px; height:180px; object-fit:cover; border-radius:50%; display:block; margin:auto;"}
+## Beyond computer science
 
-<div style="text-align: center;">
+I'm interested in contemporary history, philosophy, and literature. Music is another constant, from classical to indie rock and folk. I enjoy learning across these interests and finding new things to explore.
 
-### Rofikul Masud
+I speak English and Russian, and I'm slowly figuring out German. Feel free to get in touch.
 
+## Reading
 
-<div style="text-align: center;">
+Currently reading:
 
-Rheinische Friedrich-Wilhelms-Universität Bonn <br>
-MSc. in Computer Science — Class of 2028
+- *Contact* — Carl Sagan
+- *Beyond Good and Evil* — Friedrich Nietzsche
+- *The First Philosophers: The Presocratics and the Sophists* — translated by Robin Waterfield
 
-*Alma Mater*  
-Novosibirsk State University <br>
-BSc. in Computer Science — Class of 2025  
-</div>
-
-
-</div>
-<!-- Social links -->
-<ul class="social-links-grid">
-  <li><a href="https://t.me/ovid_d" target="_blank"><i class="bi bi-telegram"></i> Telegram</a></li>
-  <li><a href="https://www.linkedin.com/in/rofikul-masud-a984a3267/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a></li>
-  <li><a href="https://orcid.org/0009-0009-1917-8320" target="_blank"><i class="bi bi-person-badge-fill"></i> ORCID</a></li>
-</ul>
-</div>
-
-<!-- ===== Right section: about + books ===== -->
-<div class="home-right">
-### About me
-You can call me Rafik. <br>
-I'm a first year MSc Computer Science student at Uni Bonn. I won't say too much about me, but I have a wide range of interests and a great passion for learning and exploring. As they say, there's always more to discover and I trully believe it. 
-
-Aaa when I'm not studying, you'll find me diving into contemporary history, philosophy, literature, and music anywhere from classical to indie rock to folk. Also, I write blogs occationally, specially about travels, books and ect, whatever interests me.
-
-I'm Fluent in Russian and English, and slowly figuring out German. So, feel free to reach out anytime.
-<br>
-
-
-### What I'm reading now?
-<div class="reading-list">
-
-<div class="reading-box">
-  <p><strong>Great Expectations</strong> — Charles Dickens</p>
-</div>
-
-<div class="reading-box">
-  <p><strong>Barbarians to Angels</strong> — Peter S. Wells</p>
-</div>
-
-</div>
-
-</div> <!-- home-right -->
-
-</div> <!-- home-container -->
+Browse my [books](books/index.qmd) and [selected articles](articles/index.qmd) for more of what I'm reading.

@@ -1,0 +1,127 @@
+---
+title: "Curriculum vitae"
+description: "Education, work and research experience, and skills of Rofikul Masud."
+toc: true
+toc-title: On this page
+---
+
+**Rofikul Masud** · Bonn, Germany
+
+[ben-masud.org](https://ben-masud.org) · [r.ben.masud@gmail.com](mailto:r.ben.masud@gmail.com)
+
+[Download CV (PDF)](Resume_Rofikul_Masud_General_Oct2026.pdf){.document-link}
+
+*Updated 8 October 2026*
+
+## Profile
+
+MSc Computer Science student at the University of Bonn with a background in machine learning, data science and software development. Research experience at institutes of the Russian Academy of Sciences, industry experience as a machine learning developer in the financial sector, and current work in university IT administration. Analytical, adaptable and used to international, interdisciplinary teams.
+
+## Education
+
+### MSc Computer Science
+
+**University of Bonn, Institute of Computer Science**
+
+April 2026–2028 · Bonn, Germany
+
+*Studies in progress; GPA not yet available.*
+
+### BSc Computer Science and Computer Engineering
+
+**Novosibirsk State University**
+
+September 2021–July 2025 · Novosibirsk, Russia
+
+## Work experience
+
+### Student Assistant (Studentische Hilfskraft)
+
+**Bonn Graduate School of Economics (BGSE)**
+
+July 2026–present · Bonn, Germany
+
+- IT administration and website maintenance.
+
+### Junior Machine Learning Developer
+
+**AITISIB LLC**
+
+July 2024–June 2025 · Novosibirsk, Russia
+
+- Developed and maintained scalable, secure solutions for financial institutions, integrating AI and machine learning models.
+- Automated workflows, managed CI/CD pipelines and optimised infrastructure for traditional and AI-driven applications.
+
+### Data Science Intern (R&D)
+
+**Sberbank-Technology, Model Risk Management**
+
+May 2024–July 2024 · Novosibirsk, Russia
+
+- Developed and validated machine learning models for risk prediction; automated processes in Python and ensured data quality.
+
+### Co-founder
+
+**Priests of Ob Sea (student start-up, NSU)**
+
+November 2023–March 2026 · Novosibirsk, Russia
+
+- Built software, mobile and AI-based products with a five-person team; took part in national hackathons and secured funding.
+- Roles: UI/UX designer, full-stack developer, ML developer, tester.
+
+## Research experience
+
+### Research Intern · Artificial Intelligence Laboratory
+
+**A. P. Ershov Institute of Informatics Systems (RAS, Siberian Branch)**
+
+June 2025–March 2026
+
+### Research Intern · Laboratory of Machine Graphic Software Systems
+
+**Institute of Automation and Electrometry (RAS, Siberian Branch)**
+
+November 2024–May 2025
+
+### Research Intern · Laboratory of Modern Computer Technologies
+
+**Novosibirsk State University**
+
+September 2024–May 2025
+
+### Bachelor's thesis
+
+**ML for direct and inverse problems in borehole logging (VIKPB device signals)**
+
+September 2024–June 2025
+
+- Led to a peer-reviewed, Scopus-indexed publication in the IEEE XVII APEIE Conference Proceedings, 2025.
+- Advisor: Alexander A. Vlasov, PhD (NSU / Institute of Automation and Electrometry).
+
+### BIS software · Co-author
+
+September 2024–June 2025
+
+- Software for rapid analysis of high-frequency borehole measurement data (C++, Python); officially registered, Certificate No. RU2024687640.
+
+## Skills
+
+**Programming:** Python, Java, C/C++, SQL, Go, JavaScript, Haskell.
+
+**ML / AI:** Scikit-learn, TensorFlow, Keras, PyTorch; CNNs, RNNs, transformers; NLP (spaCy, Hugging Face); computer vision (OpenCV, YOLO).
+
+**Data:** NumPy, Pandas, R, SQL; statistical analysis, time series, A/B testing; Matplotlib, Seaborn, Plotly, Tableau, Power BI.
+
+**Web and backend:** React, HTML/CSS, Flask, FastAPI, REST APIs, microservices; MySQL, PostgreSQL, SQLite.
+
+**DevOps and tools:** Docker, Nginx, CI/CD, Linux administration, shell scripting; AWS, GCP; Git, GitHub, GitLab, Jira; Selenium, Postman, PyTest, JUnit.
+
+## Languages
+
+English (C1) · Russian (B2) · German (A2, preparing for B1)
+
+## Volunteering and interests
+
+Mentor in a university mental health peer-support club; organiser of literary evenings at the university library; member of a cycling club and an archery club.
+
+**Interests:** reading, blogging, hiking, swimming, reciting poetry.
