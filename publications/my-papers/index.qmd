@@ -1,0 +1,16 @@
+---
+title: "My Papers"
+description: "Research and conference publications by Rofikul Masud."
+---
+
+## Conference papers
+
+::: {.bibliography-entry}
+### Using Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device
+
+Alexander Vlasov, **Rofikul Masud**, and Galina Bykova.
+
+*2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE)*, 2025.
+
+[Request a copy by email](mailto:r.ben.masud@gmail.com?subject=Request%20for%20APEIE%202025%20paper)
+:::

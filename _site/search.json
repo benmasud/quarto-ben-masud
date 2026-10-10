@@ -7,18 +7,67 @@
     "text": "Music and literature are an important part of my life outside computer science. My listening ranges from classical music to indie rock and folk.\nI haven’t added a collection here yet. In the meantime, you can browse my reading list."
   },
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
-    "title": "Articles I’m reading",
+    "objectID": "journal/travels/index.html",
+    "href": "journal/travels/index.html",
+    "title": "Travels",
     "section": "",
-    "text": "A selection of articles and book chapters from my reading in history and philosophy. My own research is listed under Publications."
+    "text": "I’ll add travel stories and experiences here soon."
   },
   {
-    "objectID": "articles/index.html#history-and-civilization",
-    "href": "articles/index.html#history-and-civilization",
-    "title": "Articles I’m reading",
-    "section": "History and civilization",
-    "text": "History and civilization\n\nThe Concept of Civilization from Enlightenment to Revolution: An Ambiguous Transfer\nRaymonde Monnier. Contributions to the History of Concepts, 4(1), 2008, pp. 106–136.\nJSTOR · PDF\n\n\nEmpire and Civilizing Missions, Past and Present\nKenneth Pomeranz. Daedalus, 134(2), Spring 2005, pp. 34–45.\nJSTOR · PDF\n\n\nEurocentrism, civilization and the barbarians\nIn Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent, 2015, pp. 31–56.\nDOI · PDF"
+    "objectID": "journal/travels/index.html#under-construction",
+    "href": "journal/travels/index.html#under-construction",
+    "title": "Travels",
+    "section": "",
+    "text": "I’ll add travel stories and experiences here soon."
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "My reading ranges across literature, history, and philosophy. Here are the books I’m currently reading and those I’ve already read."
+  },
+  {
+    "objectID": "books/index.html#currently-reading",
+    "href": "books/index.html#currently-reading",
+    "title": "Books",
+    "section": "Currently reading",
+    "text": "Currently reading\n\n\n\nContact\nCarl Sagan\nScience fiction\n\n\n\n\n\nBeyond Good and Evil\nFriedrich Nietzsche\nPhilosophy\n\n\n\n\n\nThe First Philosophers: The Presocratics and the Sophists\nTranslated by Robin Waterfield\nPhilosophy"
+  },
+  {
+    "objectID": "books/index.html#already-read",
+    "href": "books/index.html#already-read",
+    "title": "Books",
+    "section": "Already read",
+    "text": "Already read\n\n\n\nGreat Expectations\nCharles Dickens\nLiterature\n\n\n\n\n\nBarbarians to Angels\nPeter S. Wells\nHistory\n\n\nFor shorter reading, see my selected articles."
+  },
+  {
+    "objectID": "publications/patents/index.html",
+    "href": "publications/patents/index.html",
+    "title": "Patents",
+    "section": "",
+    "text": "Galina Bykova, Alexander Vlasov, and Rofikul Masud.\nRegistered computer program, Russian Federation. Certificate No. 2024687640, 20 November 2024.\nSoftware for processing and interpreting high-frequency electromagnetic sounding signals during horizontal wellbore drilling. It supports model parameter searches, signal calculation, and target-function evaluation using interval two-layer models, including resistivity, anisotropy, dip angle, and depth. Written in C++ for Windows 10 and later.\nRegistration certificate (PDF) · Enquire about the software"
+  },
+  {
+    "objectID": "publications/patents/index.html#registered-software",
+    "href": "publications/patents/index.html#registered-software",
+    "title": "Patents",
+    "section": "",
+    "text": "Galina Bykova, Alexander Vlasov, and Rofikul Masud.\nRegistered computer program, Russian Federation. Certificate No. 2024687640, 20 November 2024.\nSoftware for processing and interpreting high-frequency electromagnetic sounding signals during horizontal wellbore drilling. It supports model parameter searches, signal calculation, and target-function evaluation using interval two-layer models, including resistivity, anisotropy, dip angle, and depth. Written in C++ for Windows 10 and later.\nRegistration certificate (PDF) · Enquire about the software"
+  },
+  {
+    "objectID": "publications/my-papers/index.html",
+    "href": "publications/my-papers/index.html",
+    "title": "My Papers",
+    "section": "",
+    "text": "Alexander Vlasov, Rofikul Masud, and Galina Bykova.\n2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE), 2025.\nRequest a copy by email"
+  },
+  {
+    "objectID": "publications/my-papers/index.html#conference-papers",
+    "href": "publications/my-papers/index.html#conference-papers",
+    "title": "My Papers",
+    "section": "",
+    "text": "Alexander Vlasov, Rofikul Masud, and Galina Bykova.\n2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE), 2025.\nRequest a copy by email"
   },
   {
     "objectID": "cv/index.html",
@@ -81,14 +130,14 @@
     "href": "index.html",
     "title": "Rofikul Masud",
     "section": "",
-    "text": "You can call me Rafik. I’m an MSc Computer Science student at the University of Bonn, with an expected graduation in 2028. I completed my bachelor’s degree in Computer Science at Novosibirsk State University in 2025.\nMy research experience includes machine learning and computational modelling, particularly the interpretation of high-frequency electromagnetic data. You can find my research outputs on the Publications page and more about my education, experience, and projects in my CV."
+    "text": "Hi, I’m Rafik.\nI’m an MSc Computer Science student at the University of Bonn, a long way from Novosibirsk State University, where I finished my bachelor’s in 2025. I like teaching machines to find patterns and building models of systems too big, too slow, or too far away to poke directly.\nThe results are on the Publications, and the longer story is in my CV."
   },
   {
     "objectID": "index.html#beyond-computer-science",
     "href": "index.html#beyond-computer-science",
     "title": "Rofikul Masud",
     "section": "Beyond computer science",
-    "text": "Beyond computer science\nI’m interested in contemporary history, philosophy, and literature. Music is another constant, from classical to indie rock and folk. I enjoy learning across these interests and finding new things to explore.\nI speak English and Russian, and I’m slowly figuring out German. Feel free to get in touch."
+    "text": "Beyond computer science\nMy brain won’t stay in one department. I read history and philosophy to understand how we got here, and literature to understand how it felt. Music runs underneath it all, from classical to indie rock to folk.\nI speak English and Russian, and German is a work in progress. I can order coffee with confidence and argue about nothing at all.\nGet in touch. I’m always up for a good conversation."
   },
   {
     "objectID": "index.html#reading",
@@ -102,41 +151,62 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "My work has focused on machine learning and computational methods for interpreting geophysical data."
+    "text": "My work has focused on machine learning and computational methods for interpreting geophysical data.\n\nMy Papers — Research and conference publications.\nSeminar Papers — Seminar papers will be added here.\nPatents — Registered software and certificates."
   },
   {
-    "objectID": "publications/index.html#conference-papers",
-    "href": "publications/index.html#conference-papers",
-    "title": "Publications",
-    "section": "Conference papers",
-    "text": "Conference papers\n\nUsing Machine Learning Methods to Model and Interpret Problems in Determining the Parameters of the Medium Near the Well Using Signals from a High-Frequency Induction Logging While Drilling Device\nAlexander Vlasov, Rofikul Masud, and Galina Bykova.\n2025 IEEE XVII International Scientific and Technical Conference on Actual Problems of Electronic Instrument Engineering (APEIE), 2025.\nRequest a copy by email"
-  },
-  {
-    "objectID": "publications/index.html#registered-software",
-    "href": "publications/index.html#registered-software",
-    "title": "Publications",
-    "section": "Registered software",
-    "text": "Registered software\n\nBIS — Fast Interpretation of High-Frequency Electromagnetic Sounding Data\nGalina Bykova, Alexander Vlasov, and Rofikul Masud.\nRegistered computer program, Russian Federation. Certificate No. 2024687640, 20 November 2024.\nSoftware for processing and interpreting high-frequency electromagnetic sounding signals during horizontal wellbore drilling. It supports model parameter searches, signal calculation, and target-function evaluation using interval two-layer models, including resistivity, anisotropy, dip angle, and depth. Written in C++ for Windows 10 and later.\nRegistration certificate (PDF) · Enquire about the software"
-  },
-  {
-    "objectID": "books/index.html",
-    "href": "books/index.html",
-    "title": "Books",
+    "objectID": "publications/seminar-papers/index.html",
+    "href": "publications/seminar-papers/index.html",
+    "title": "Seminar Papers",
     "section": "",
-    "text": "My reading ranges across literature, history, and philosophy. Here are the books I’m currently reading and those I’ve already read."
+    "text": "I’ll add seminar papers here soon."
   },
   {
-    "objectID": "books/index.html#currently-reading",
-    "href": "books/index.html#currently-reading",
-    "title": "Books",
-    "section": "Currently reading",
-    "text": "Currently reading\n\n\n\nContact\nCarl Sagan\nScience fiction\n\n\n\n\n\nBeyond Good and Evil\nFriedrich Nietzsche\nPhilosophy\n\n\n\n\n\nThe First Philosophers: The Presocratics and the Sophists\nTranslated by Robin Waterfield\nPhilosophy"
+    "objectID": "publications/seminar-papers/index.html#under-construction",
+    "href": "publications/seminar-papers/index.html#under-construction",
+    "title": "Seminar Papers",
+    "section": "",
+    "text": "I’ll add seminar papers here soon."
   },
   {
-    "objectID": "books/index.html#already-read",
-    "href": "books/index.html#already-read",
-    "title": "Books",
-    "section": "Already read",
-    "text": "Already read\n\n\n\nGreat Expectations\nCharles Dickens\nLiterature\n\n\n\n\n\nBarbarians to Angels\nPeter S. Wells\nHistory\n\n\nFor shorter reading, see my selected articles."
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles I’m reading",
+    "section": "",
+    "text": "A selection of articles and book chapters from my reading in history and philosophy. My own research is listed under Publications."
+  },
+  {
+    "objectID": "articles/index.html#history-and-civilization",
+    "href": "articles/index.html#history-and-civilization",
+    "title": "Articles I’m reading",
+    "section": "History and civilization",
+    "text": "History and civilization\n\nThe Concept of Civilization from Enlightenment to Revolution: An Ambiguous Transfer\nRaymonde Monnier. Contributions to the History of Concepts, 4(1), 2008, pp. 106–136.\nJSTOR · PDF\n\n\nEmpire and Civilizing Missions, Past and Present\nKenneth Pomeranz. Daedalus, 134(2), Spring 2005, pp. 34–45.\nJSTOR · PDF\n\n\nEurocentrism, civilization and the barbarians\nIn Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent, 2015, pp. 31–56.\nDOI · PDF"
+  },
+  {
+    "objectID": "journal/hikings/index.html",
+    "href": "journal/hikings/index.html",
+    "title": "Hikings",
+    "section": "",
+    "text": "I’ll add hiking stories and notes here soon."
+  },
+  {
+    "objectID": "journal/hikings/index.html#under-construction",
+    "href": "journal/hikings/index.html#under-construction",
+    "title": "Hikings",
+    "section": "",
+    "text": "I’ll add hiking stories and notes here soon."
+  },
+  {
+    "objectID": "journal/opinions/index.html",
+    "href": "journal/opinions/index.html",
+    "title": "Opinions",
+    "section": "",
+    "text": "I’ll add opinions and reflections here soon."
+  },
+  {
+    "objectID": "journal/opinions/index.html#under-construction",
+    "href": "journal/opinions/index.html#under-construction",
+    "title": "Opinions",
+    "section": "",
+    "text": "I’ll add opinions and reflections here soon."
   }
 ]

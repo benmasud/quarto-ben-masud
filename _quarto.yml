@@ -5,8 +5,14 @@ project:
     - index.qmd
     - cv/index.qmd
     - publications/index.qmd
+    - publications/my-papers/index.qmd
+    - publications/seminar-papers/index.qmd
+    - publications/patents/index.qmd
     - articles/index.qmd
     - books/index.qmd
+    - journal/hikings/index.qmd
+    - journal/travels/index.qmd
+    - journal/opinions/index.qmd
     - ARTS/index.qmd
   resources:
     - assets/fonts/**
@@ -22,7 +28,13 @@ website:
     collapse-below: lg
     right:
       - text: Publications
-        href: publications/index.qmd
+        menu:
+          - text: My Papers
+            href: publications/my-papers/index.qmd
+          - text: Seminar Papers
+            href: publications/seminar-papers/index.qmd
+          - text: Patents
+            href: publications/patents/index.qmd
       - text: CV
         href: cv/index.qmd
       - text: Reading
@@ -31,6 +43,14 @@ website:
             href: articles/index.qmd
           - text: Books
             href: books/index.qmd
+      - text: Personal Journal
+        menu:
+          - text: Hikings
+            href: journal/hikings/index.qmd
+          - text: Travels
+            href: journal/travels/index.qmd
+          - text: Opinions
+            href: journal/opinions/index.qmd
       - text: Arts
         href: ARTS/index.qmd
   search:

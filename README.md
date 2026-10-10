@@ -25,9 +25,13 @@ The rendered website is written to `_site/`. Publish the contents of that direct
 | `_quarto.yml` | Navigation, explicit page list, shared settings, downloadable resources |
 | `index.qmd` | Profile and biography, using Quarto's Trestles layout |
 | `cv/index.qmd` | Web CV and PDF download |
-| `publications/index.qmd` | Research papers and registered software |
+| `publications/index.qmd` | Publications overview, preserving existing links |
+| `publications/my-papers/index.qmd` | Research and conference publications |
+| `publications/seminar-papers/index.qmd` | Seminar papers (currently under construction) |
+| `publications/patents/index.qmd` | Registered software and certificates |
 | `articles/index.qmd` | Selected reading by other authors |
 | `books/index.qmd` | Current book reading list |
+| `journal/` | Personal Journal: Hikings, Travels, and Opinions; edit each section's `index.qmd` to add content |
 | `ARTS/index.qmd` | Arts interests (existing URL preserved) |
 | `assets/styles.scss` | Shared typography, colors, and responsive styling |
 | `assets/fonts.css` | Font declarations with paths relative to the stylesheet |

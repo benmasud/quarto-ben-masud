@@ -21,15 +21,19 @@ about:
       href: cv/index.qmd
 ---
 
-You can call me Rafik. I'm an MSc Computer Science student at the **University of Bonn**, with an expected graduation in 2028. I completed my bachelor's degree in Computer Science at **Novosibirsk State University** in 2025.
+Hi, I’m Rafik.
 
-My research experience includes machine learning and computational modelling, particularly the interpretation of high-frequency electromagnetic data. You can find my research outputs on the [Publications](publications/index.qmd) page and more about my education, experience, and projects in my [CV](cv/index.qmd).
+I’m an MSc Computer Science student at the University of Bonn, a long way from Novosibirsk State University, where I finished my bachelor’s in 2025. I like teaching machines to find patterns and building models of systems too big, too slow, or too far away to poke directly.
+
+The results are on the [Publications](publications/index.qmd), and the longer story is in my [CV](cv/index.qmd).
 
 ## Beyond computer science
 
-I'm interested in contemporary history, philosophy, and literature. Music is another constant, from classical to indie rock and folk. I enjoy learning across these interests and finding new things to explore.
+My brain won’t stay in one department. I read history and philosophy to understand how we got here, and literature to understand how it felt. Music runs underneath it all, from classical to indie rock to folk.
 
-I speak English and Russian, and I'm slowly figuring out German. Feel free to get in touch.
+I speak English and Russian, and German is a work in progress. I can order coffee with confidence and argue about nothing at all.
+
+Get in touch. I’m always up for a good conversation.
 
 ## Reading
 

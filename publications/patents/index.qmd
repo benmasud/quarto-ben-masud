@@ -1,0 +1,18 @@
+---
+title: "Patents"
+description: "Registered software and certificates."
+---
+
+## Registered software
+
+::: {.bibliography-entry}
+### BIS — Fast Interpretation of High-Frequency Electromagnetic Sounding Data
+
+Galina Bykova, Alexander Vlasov, and **Rofikul Masud**.
+
+Registered computer program, Russian Federation. Certificate **No. 2024687640**, 20 November 2024.
+
+Software for processing and interpreting high-frequency electromagnetic sounding signals during horizontal wellbore drilling. It supports model parameter searches, signal calculation, and target-function evaluation using interval two-layer models, including resistivity, anisotropy, dip angle, and depth. Written in C++ for Windows 10 and later.
+
+[Registration certificate (PDF)](../../files/software_certificate_RU2024687640.pdf.PDF) · [Enquire about the software](mailto:r.ben.masud@gmail.com?subject=Enquiry%20about%20BIS%20software)
+:::
